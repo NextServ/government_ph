@@ -1,0 +1,67 @@
+{
+ "charts": [
+  {
+   "chart_name": "Business Permit Application",
+   "label": "Business Permit Application"
+  }
+ ],
+ "content": "[{\"id\":\"HjeJHmfKuq\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Permits and Licensing</span>\",\"col\":12}},{\"id\":\"5D3guvdaIQ\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Business Permit Application\",\"col\":12}},{\"id\":\"18gsUUurJ6\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Applications\",\"col\":4}},{\"id\":\"yWir8-B6lm\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"For BPLO Verification\",\"col\":4}},{\"id\":\"ltBwj-t3jw\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"For Assessment\",\"col\":4}},{\"id\":\"v3XpQwr5uR\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}}]",
+ "creation": "2025-09-02 16:43:36.130873",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "liabilities",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Permits and Licensing",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Masters",
+   "link_count": 1,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Business Permit Application",
+   "link_count": 0,
+   "link_to": "Business Permit Application",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-09-03 16:40:51.035603",
+ "modified_by": "Administrator",
+ "module": "Permits and Licensing",
+ "name": "Permits and Licensing",
+ "number_cards": [
+  {
+   "label": "Total Applications",
+   "number_card_name": "Total Applications"
+  },
+  {
+   "label": "For BPLO Verification",
+   "number_card_name": "For Verification by BPLO"
+  },
+  {
+   "label": "For Assessment",
+   "number_card_name": "For Assessment by Assessor"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "Government PH",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 24.0,
+ "shortcuts": [],
+ "title": "Permits and Licensing"
+}

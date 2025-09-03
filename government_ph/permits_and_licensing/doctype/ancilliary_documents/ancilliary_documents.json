@@ -1,0 +1,91 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-29 10:12:39.512870",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_vdlh",
+  "template_name",
+  "default",
+  "disabled",
+  "column_break_oezs",
+  "company",
+  "ancilliary_requirement_section",
+  "link_dazm"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_vdlh",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "template_name",
+   "fieldtype": "Data",
+   "label": "Template Name"
+  },
+  {
+   "default": "0",
+   "fieldname": "default",
+   "fieldtype": "Check",
+   "label": "Default"
+  },
+  {
+   "default": "0",
+   "fieldname": "disabled",
+   "fieldtype": "Check",
+   "label": "Disabled"
+  },
+  {
+   "fieldname": "column_break_oezs",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "company",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Company",
+   "options": "Company",
+   "remember_last_selected_value": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "ancilliary_requirement_section",
+   "fieldtype": "Section Break",
+   "label": "Ancilliary Requirement"
+  },
+  {
+   "fieldname": "link_dazm",
+   "fieldtype": "Table",
+   "label": "Ancilliary Checklist",
+   "options": "Documentary Requirements"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-09-03 16:55:18.086915",
+ "modified_by": "Administrator",
+ "module": "Permits and Licensing",
+ "name": "Ancilliary Documents",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
