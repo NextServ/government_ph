@@ -1,0 +1,712 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "LGU-.YYYY.-.#####.",
+ "creation": "2025-08-18 09:16:53.899286",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "taxpayers_information_tab",
+  "section_break_fuxa",
+  "amended_from",
+  "application_details_section",
+  "type_of_application",
+  "business_identification_number",
+  "column_break_xsep",
+  "payment_frequency",
+  "section_break_fwlw",
+  "is_the_registrant_the_business_owner",
+  "first_name",
+  "middle_name",
+  "last_name",
+  "extension_name",
+  "column_break_ucbl",
+  "sex",
+  "birthday",
+  "address_and_contact_section",
+  "column_break_clnb",
+  "region",
+  "province",
+  "city",
+  "barangay",
+  "house_number",
+  "unit_no",
+  "building_name",
+  "street",
+  "subdivision",
+  "postal_code",
+  "column_break_jrnr",
+  "telephone_number",
+  "mobile_number",
+  "email_address",
+  "emergency_contact_person_section",
+  "full_name",
+  "relationship",
+  "column_break_qypt",
+  "contact_number",
+  "contact_person_email_address",
+  "tab_break_rnng",
+  "business_details_section",
+  "business_name",
+  "type_of_business",
+  "column_break_yzwu",
+  "trade_name",
+  "section_break_iufj",
+  "dti_registration_no",
+  "sec_registration_no",
+  "cda_registration_no",
+  "tax_identification_no",
+  "property_index_number",
+  "no_of_employees_in_establishment",
+  "no_of_male_employees_in_establishment",
+  "column_break_oafp",
+  "dti_date_of_registration",
+  "sec_date_of_registration",
+  "cda_date_of_registration",
+  "ctc_no",
+  "business_area",
+  "no_of_employees_residing_in_lgu",
+  "no_of_female_employees_in_establishment",
+  "section_break_qsoc",
+  "business_telephone_no",
+  "business_email_address",
+  "column_break_jxmu",
+  "business_mobile_no",
+  "are_you_enjoying_tax_incentive_from_any_government_entity",
+  "please_specify_the_entity",
+  "business_address_section",
+  "business_region",
+  "business_province",
+  "business_city",
+  "business_barangay",
+  "business_postal_code",
+  "column_break_uyqn",
+  "business_house_no",
+  "business_unit_no",
+  "business_building_name",
+  "business_street",
+  "business_subdivision",
+  "lessor_details_section",
+  "is_the_place_of_business_rented",
+  "lessors_full_name",
+  "lessor_region",
+  "lessor_province",
+  "lessor_city",
+  "lessor_barangay",
+  "lessor_postal_code",
+  "column_break_nwuf",
+  "monthly_rental",
+  "lessor_contact_no",
+  "lessor_email_address",
+  "lessor_house_no",
+  "lessor_unit_no",
+  "lessor_building_name",
+  "lessor_street",
+  "lessor_subdivision",
+  "business_activityrequirements_tab",
+  "line_of_business_section",
+  "line_of_business"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_fuxa",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Business Permit Application",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "application_details_section",
+   "fieldtype": "Section Break",
+   "label": "Application Details "
+  },
+  {
+   "fieldname": "type_of_application",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Type of Application",
+   "options": "\nNew\nRenewal\nOthers",
+   "reqd": 1
+  },
+  {
+   "fieldname": "business_identification_number",
+   "fieldtype": "Data",
+   "label": "Business Identification Number"
+  },
+  {
+   "fieldname": "column_break_xsep",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "payment_frequency",
+   "fieldtype": "Select",
+   "label": "Mode of Payment",
+   "options": "Annually\nBi-Annually\nQuarterly"
+  },
+  {
+   "fieldname": "last_name",
+   "fieldtype": "Data",
+   "label": "Last Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_ucbl",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "label": "First Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "middle_name",
+   "fieldtype": "Data",
+   "label": "Middle Name"
+  },
+  {
+   "fieldname": "extension_name",
+   "fieldtype": "Data",
+   "label": "Extension Name"
+  },
+  {
+   "fieldname": "birthday",
+   "fieldtype": "Date",
+   "label": "Birthday",
+   "reqd": 1
+  },
+  {
+   "fieldname": "sex",
+   "fieldtype": "Link",
+   "label": "Sex",
+   "options": "Gender",
+   "reqd": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "is_the_registrant_the_business_owner",
+   "fieldtype": "Check",
+   "label": "Is the registrant the business owner?"
+  },
+  {
+   "fieldname": "address_and_contact_section",
+   "fieldtype": "Section Break",
+   "label": "Address and Contact"
+  },
+  {
+   "fieldname": "telephone_number",
+   "fieldtype": "Data",
+   "label": "Telephone Number"
+  },
+  {
+   "fieldname": "email_address",
+   "fieldtype": "Data",
+   "label": "Email Address",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_clnb",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "mobile_number",
+   "fieldtype": "Data",
+   "label": "Mobile Number",
+   "reqd": 1
+  },
+  {
+   "fieldname": "house_number",
+   "fieldtype": "Data",
+   "label": "House No./ Bldg. No."
+  },
+  {
+   "fieldname": "column_break_jrnr",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "region",
+   "fieldtype": "Link",
+   "label": "Region",
+   "options": "Region",
+   "reqd": 1
+  },
+  {
+   "fieldname": "city",
+   "fieldtype": "Link",
+   "label": "City",
+   "options": "City",
+   "reqd": 1
+  },
+  {
+   "fieldname": "unit_no",
+   "fieldtype": "Data",
+   "label": "Unit No."
+  },
+  {
+   "fieldname": "building_name",
+   "fieldtype": "Data",
+   "label": "Building Name"
+  },
+  {
+   "fieldname": "street",
+   "fieldtype": "Data",
+   "label": "Street"
+  },
+  {
+   "fieldname": "subdivision",
+   "fieldtype": "Data",
+   "label": "Subdivision"
+  },
+  {
+   "fieldname": "province",
+   "fieldtype": "Link",
+   "label": "Province",
+   "options": "Province",
+   "reqd": 1
+  },
+  {
+   "fieldname": "barangay",
+   "fieldtype": "Link",
+   "label": "Barangay",
+   "options": "Barangay",
+   "reqd": 1
+  },
+  {
+   "fieldname": "taxpayers_information_tab",
+   "fieldtype": "Tab Break",
+   "label": "Taxpayer's Information"
+  },
+  {
+   "fieldname": "section_break_fwlw",
+   "fieldtype": "Section Break",
+   "label": "Owner Details"
+  },
+  {
+   "fieldname": "postal_code",
+   "fieldtype": "Link",
+   "label": "Postal Code",
+   "options": "Postal Code"
+  },
+  {
+   "fieldname": "tab_break_rnng",
+   "fieldtype": "Tab Break",
+   "label": "Business Information"
+  },
+  {
+   "fieldname": "emergency_contact_person_section",
+   "fieldtype": "Section Break",
+   "label": "Emergency Contact Person"
+  },
+  {
+   "fieldname": "full_name",
+   "fieldtype": "Data",
+   "label": "Full Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "relationship",
+   "fieldtype": "Data",
+   "label": "Relationship",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_qypt",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "contact_number",
+   "fieldtype": "Data",
+   "label": "Contact Number",
+   "reqd": 1
+  },
+  {
+   "fieldname": "contact_person_email_address",
+   "fieldtype": "Data",
+   "label": "Email Address"
+  },
+  {
+   "fieldname": "business_details_section",
+   "fieldtype": "Section Break",
+   "label": "Business Details"
+  },
+  {
+   "fieldname": "business_name",
+   "fieldtype": "Data",
+   "in_filter": 1,
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Business Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_yzwu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "trade_name",
+   "fieldtype": "Data",
+   "label": "Trade Name/ Franchise"
+  },
+  {
+   "fieldname": "type_of_business",
+   "fieldtype": "Select",
+   "label": "Type of Business",
+   "options": "\nSingle Proprietorship\nOne Person Corporation\nPartnership\nCorporation\nCooperative",
+   "reqd": 1
+  },
+  {
+   "fieldname": "section_break_iufj",
+   "fieldtype": "Section Break"
+  },
+  {
+   "depends_on": "eval:doc.type_of_business==\"Single Proprietorship\"\r\n",
+   "fieldname": "dti_registration_no",
+   "fieldtype": "Data",
+   "label": "DTI Registration No.",
+   "mandatory_depends_on": "eval:doc.type_of_business==\"Single Proprietorship\"\r\n"
+  },
+  {
+   "fieldname": "tax_identification_no",
+   "fieldtype": "Data",
+   "label": "Tax Identification No. (TIN)",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_oafp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.type_of_business==\"Single Proprietorship\"\r\n",
+   "fieldname": "dti_date_of_registration",
+   "fieldtype": "Date",
+   "label": "DTI Date of Registration",
+   "mandatory_depends_on": "eval:doc.type_of_business==\"Single Proprietorship\"\r\n"
+  },
+  {
+   "fieldname": "ctc_no",
+   "fieldtype": "Data",
+   "label": "CTC No"
+  },
+  {
+   "depends_on": "eval:doc.type_of_business==\"Partnership\" || doc.type_of_business==\"Corporation\"\r\n",
+   "fieldname": "sec_registration_no",
+   "fieldtype": "Data",
+   "label": "SEC Registration No.",
+   "mandatory_depends_on": "eval:doc.type_of_business==\"Partnership\" || doc.type_of_business==\"Corporation\"\r\n"
+  },
+  {
+   "depends_on": "eval:doc.type_of_business==\"Partnership\" || doc.type_of_business==\"Corporation\"\r\n",
+   "fieldname": "sec_date_of_registration",
+   "fieldtype": "Date",
+   "label": "SEC Date of Registration",
+   "mandatory_depends_on": "eval:doc.type_of_business==\"Partnership\" || doc.type_of_business==\"Corporation\"\r\n"
+  },
+  {
+   "depends_on": "eval:doc.type_of_business==\"Cooperative\"\r\n",
+   "fieldname": "cda_registration_no",
+   "fieldtype": "Data",
+   "label": "CDA Registration No.",
+   "mandatory_depends_on": "eval:doc.type_of_business==\"Cooperative\"\r\n"
+  },
+  {
+   "depends_on": "eval:doc.type_of_business==\"Cooperative\"\r\n",
+   "fieldname": "cda_date_of_registration",
+   "fieldtype": "Date",
+   "label": "CDA Date of Registration",
+   "mandatory_depends_on": "eval:doc.type_of_business==\"Cooperative\"\r\n"
+  },
+  {
+   "fieldname": "property_index_number",
+   "fieldtype": "Data",
+   "label": "Property Index Number (PIN)"
+  },
+  {
+   "fieldname": "business_area",
+   "fieldtype": "Data",
+   "label": "Business Area (in sq m)",
+   "reqd": 1
+  },
+  {
+   "fieldname": "no_of_employees_in_establishment",
+   "fieldtype": "Data",
+   "label": "No. of Employees in Establishment",
+   "reqd": 1
+  },
+  {
+   "fieldname": "no_of_male_employees_in_establishment",
+   "fieldtype": "Data",
+   "label": "No of Male Employees in Establishment"
+  },
+  {
+   "fieldname": "no_of_employees_residing_in_lgu",
+   "fieldtype": "Data",
+   "label": "No of Employees Residing in LGU",
+   "reqd": 1
+  },
+  {
+   "fieldname": "no_of_female_employees_in_establishment",
+   "fieldtype": "Data",
+   "label": "No of Female Employees in Establishment"
+  },
+  {
+   "fieldname": "business_activityrequirements_tab",
+   "fieldtype": "Tab Break",
+   "label": "Business Activity/Requirements"
+  },
+  {
+   "fieldname": "section_break_qsoc",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "business_telephone_no",
+   "fieldtype": "Data",
+   "label": "Business Telephone No."
+  },
+  {
+   "fieldname": "business_email_address",
+   "fieldtype": "Data",
+   "label": "Business Email Address"
+  },
+  {
+   "fieldname": "column_break_jxmu",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "business_mobile_no",
+   "fieldtype": "Data",
+   "label": "Business Mobile No"
+  },
+  {
+   "fieldname": "are_you_enjoying_tax_incentive_from_any_government_entity",
+   "fieldtype": "Select",
+   "label": "Are you enjoying tax incentive from any Government Entity?",
+   "options": "\nYes\nNo",
+   "reqd": 1
+  },
+  {
+   "depends_on": "eval:doc.are_you_enjoying_tax_incentive_from_any_government_entity==\"Yes\"\r\n",
+   "fieldname": "please_specify_the_entity",
+   "fieldtype": "Data",
+   "label": "Please specify the Entity",
+   "mandatory_depends_on": "eval:doc.are_you_enjoying_tax_incentive_from_any_government_entity==\"Yes\"\r\n"
+  },
+  {
+   "fieldname": "business_address_section",
+   "fieldtype": "Section Break",
+   "label": "Business Address"
+  },
+  {
+   "fieldname": "business_house_no",
+   "fieldtype": "Data",
+   "label": "House No./Bldg No."
+  },
+  {
+   "fieldname": "business_building_name",
+   "fieldtype": "Data",
+   "label": "Building Name"
+  },
+  {
+   "fieldname": "column_break_uyqn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "business_unit_no",
+   "fieldtype": "Data",
+   "label": "Unit No."
+  },
+  {
+   "fieldname": "business_street",
+   "fieldtype": "Data",
+   "label": "Street"
+  },
+  {
+   "fieldname": "business_postal_code",
+   "fieldtype": "Link",
+   "label": "Postal Code",
+   "options": "Postal Code"
+  },
+  {
+   "fieldname": "business_region",
+   "fieldtype": "Link",
+   "label": "Region",
+   "options": "Region"
+  },
+  {
+   "fieldname": "business_province",
+   "fieldtype": "Link",
+   "label": "Province",
+   "options": "Province"
+  },
+  {
+   "fieldname": "business_city",
+   "fieldtype": "Link",
+   "label": "City",
+   "options": "City"
+  },
+  {
+   "fieldname": "business_barangay",
+   "fieldtype": "Link",
+   "label": "Barangay",
+   "options": "Barangay"
+  },
+  {
+   "fieldname": "business_subdivision",
+   "fieldtype": "Data",
+   "label": "Subdivision"
+  },
+  {
+   "fieldname": "lessor_details_section",
+   "fieldtype": "Section Break",
+   "label": "Lessor Details"
+  },
+  {
+   "fieldname": "is_the_place_of_business_rented",
+   "fieldtype": "Select",
+   "label": "Is the place of business rented?",
+   "options": "\nYes\nNo",
+   "reqd": 1
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessors_full_name",
+   "fieldtype": "Data",
+   "label": "Lessor's Full Name"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_postal_code",
+   "fieldtype": "Link",
+   "label": "Postal Code",
+   "options": "Postal Code"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_region",
+   "fieldtype": "Link",
+   "label": "Region",
+   "options": "Region"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_province",
+   "fieldtype": "Link",
+   "label": "Province",
+   "options": "Province"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_city",
+   "fieldtype": "Link",
+   "label": "City",
+   "options": "City"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_barangay",
+   "fieldtype": "Link",
+   "label": "Barangay",
+   "options": "Barangay"
+  },
+  {
+   "fieldname": "column_break_nwuf",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "monthly_rental",
+   "fieldtype": "Currency",
+   "label": "Monthly Rental"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_house_no",
+   "fieldtype": "Data",
+   "label": "House No./Bldg No."
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_unit_no",
+   "fieldtype": "Data",
+   "label": "Unit No"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_building_name",
+   "fieldtype": "Data",
+   "label": "Building Name"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_street",
+   "fieldtype": "Data",
+   "label": "Street"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_subdivision",
+   "fieldtype": "Data",
+   "label": "Subdivision"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_contact_no",
+   "fieldtype": "Data",
+   "label": "Contact No"
+  },
+  {
+   "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "fieldname": "lessor_email_address",
+   "fieldtype": "Data",
+   "label": "Email Address"
+  },
+  {
+   "fieldname": "line_of_business_section",
+   "fieldtype": "Section Break",
+   "label": "Line of Business"
+  },
+  {
+   "fieldname": "line_of_business",
+   "fieldtype": "Table",
+   "label": "Line of Business",
+   "options": "Line of Business Detail"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2025-09-03 12:24:12.780934",
+ "modified_by": "Administrator",
+ "module": "Government PH",
+ "name": "Business Permit Application",
+ "naming_rule": "Expression (old style)",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}

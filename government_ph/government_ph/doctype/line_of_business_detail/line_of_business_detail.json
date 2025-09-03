@@ -1,0 +1,76 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-08-18 16:12:10.210722",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "code",
+  "description",
+  "units",
+  "capital_investment",
+  "essential",
+  "non_essential"
+ ],
+ "fields": [
+  {
+   "columns": 1,
+   "fetch_from": "description.code",
+   "fieldname": "code",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Code"
+  },
+  {
+   "columns": 2,
+   "fieldname": "description",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Description",
+   "options": "Line of Business"
+  },
+  {
+   "columns": 1,
+   "fieldname": "units",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Units"
+  },
+  {
+   "columns": 2,
+   "fieldname": "capital_investment",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "Capital Investment"
+  },
+  {
+   "columns": 1,
+   "fieldname": "essential",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "Essential"
+  },
+  {
+   "columns": 2,
+   "fieldname": "non_essential",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "Non-essential"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-08-18 16:23:37.182025",
+ "modified_by": "Administrator",
+ "module": "Government PH",
+ "name": "Line of Business Detail",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
