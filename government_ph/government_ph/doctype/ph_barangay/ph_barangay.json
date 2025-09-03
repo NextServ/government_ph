@@ -1,31 +1,38 @@
 {
  "actions": [],
  "allow_rename": 1,
- "creation": "2025-08-18 10:35:16.454204",
+ "creation": "2025-08-18 10:39:52.181948",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "section_break_16ut",
-  "region"
+  "section_break_wpgl",
+  "barangay",
+  "city"
  ],
  "fields": [
   {
-   "fieldname": "section_break_16ut",
+   "fieldname": "section_break_wpgl",
    "fieldtype": "Section Break"
   },
   {
-   "fieldname": "region",
+   "fieldname": "barangay",
    "fieldtype": "Data",
-   "label": "Region"
+   "label": "Barangay"
+  },
+  {
+   "fieldname": "city",
+   "fieldtype": "Link",
+   "label": "City",
+   "options": "PH City"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-18 10:35:36.317042",
+ "modified": "2025-09-03 16:59:49.537980",
  "modified_by": "Administrator",
  "module": "Government PH",
- "name": "Region",
+ "name": "PH Barangay",
  "owner": "Administrator",
  "permissions": [
   {

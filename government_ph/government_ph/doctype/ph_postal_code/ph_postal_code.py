@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class Barangay(Document):
+class PHPostalCode(Document):
 	pass

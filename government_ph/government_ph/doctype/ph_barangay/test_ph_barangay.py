@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestPostalCode(FrappeTestCase):
+class TestPHBarangay(FrappeTestCase):
 	pass

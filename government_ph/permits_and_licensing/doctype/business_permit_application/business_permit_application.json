@@ -219,28 +219,28 @@
    "fieldname": "region",
    "fieldtype": "Link",
    "label": "Region",
-   "options": "Region",
+   "options": "PH Region",
    "reqd": 1
   },
   {
    "fieldname": "province",
    "fieldtype": "Link",
    "label": "Province",
-   "options": "Province",
+   "options": "PH Province",
    "reqd": 1
   },
   {
    "fieldname": "city",
    "fieldtype": "Link",
    "label": "City",
-   "options": "City",
+   "options": "PH City",
    "reqd": 1
   },
   {
    "fieldname": "barangay",
    "fieldtype": "Link",
    "label": "Barangay",
-   "options": "Barangay",
+   "options": "PH Barangay",
    "reqd": 1
   },
   {
@@ -272,7 +272,7 @@
    "fieldname": "postal_code",
    "fieldtype": "Link",
    "label": "Postal Code",
-   "options": "Postal Code"
+   "options": "PH Postal Code"
   },
   {
    "fieldname": "column_break_jrnr",
@@ -502,31 +502,31 @@
    "fieldname": "business_region",
    "fieldtype": "Link",
    "label": "Region",
-   "options": "Region"
+   "options": "PH Region"
   },
   {
    "fieldname": "business_province",
    "fieldtype": "Link",
    "label": "Province",
-   "options": "Province"
+   "options": "PH Province"
   },
   {
    "fieldname": "business_city",
    "fieldtype": "Link",
    "label": "City",
-   "options": "City"
+   "options": "PH City"
   },
   {
    "fieldname": "business_barangay",
    "fieldtype": "Link",
    "label": "Barangay",
-   "options": "Barangay"
+   "options": "PH Barangay"
   },
   {
    "fieldname": "business_postal_code",
    "fieldtype": "Link",
    "label": "Postal Code",
-   "options": "Postal Code"
+   "options": "PH Postal Code"
   },
   {
    "fieldname": "column_break_uyqn",
@@ -580,35 +580,35 @@
    "fieldname": "lessor_region",
    "fieldtype": "Link",
    "label": "Region",
-   "options": "Region"
+   "options": "PH Region"
   },
   {
    "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
    "fieldname": "lessor_province",
    "fieldtype": "Link",
    "label": "Province",
-   "options": "Province"
+   "options": "PH Province"
   },
   {
    "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
    "fieldname": "lessor_city",
    "fieldtype": "Link",
    "label": "City",
-   "options": "City"
+   "options": "PH City"
   },
   {
    "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
    "fieldname": "lessor_barangay",
    "fieldtype": "Link",
    "label": "Barangay",
-   "options": "Barangay"
+   "options": "PH Barangay"
   },
   {
    "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
    "fieldname": "lessor_postal_code",
    "fieldtype": "Link",
    "label": "Postal Code",
-   "options": "Postal Code"
+   "options": "PH Postal Code"
   },
   {
    "fieldname": "column_break_nwuf",
@@ -683,7 +683,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-03 16:54:06.288401",
+ "modified": "2025-09-03 17:00:25.175457",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",

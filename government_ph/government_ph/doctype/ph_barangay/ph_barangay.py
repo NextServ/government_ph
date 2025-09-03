@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class City(Document):
+class PHBarangay(Document):
 	pass
