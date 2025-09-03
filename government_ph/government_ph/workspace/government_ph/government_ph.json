@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"YTBn3Miv6z\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Government PH</span>\",\"col\":12}}]",
+ "content": "[{\"id\":\"YTBn3Miv6z\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Government PH</span>\",\"col\":12}},{\"id\":\"EhXiJX8N9I\",\"type\":\"card\",\"data\":{\"card_name\":\"Address Masters\",\"col\":4}}]",
  "creation": "2025-09-03 15:44:06.201921",
  "custom_blocks": [],
  "docstatus": 0,
@@ -12,8 +12,68 @@
  "indicator_color": "green",
  "is_hidden": 0,
  "label": "Government PH",
- "links": [],
- "modified": "2025-09-03 16:30:14.198713",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Address Masters",
+   "link_count": 5,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Region",
+   "link_count": 0,
+   "link_to": "PH Region",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Province",
+   "link_count": 0,
+   "link_to": "PH Province",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "City",
+   "link_count": 0,
+   "link_to": "PH City",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Barangay",
+   "link_count": 0,
+   "link_to": "PH Barangay",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Postal Code",
+   "link_count": 0,
+   "link_to": "PH Postal Code",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-09-03 17:02:37.080581",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "Government PH",
