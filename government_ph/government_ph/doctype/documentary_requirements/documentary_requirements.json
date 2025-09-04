@@ -60,7 +60,7 @@
    "fieldtype": "Select",
    "in_list_view": 1,
    "label": "Status",
-   "options": "For Inspection\nAwaiting Submission\nPending Review\nApproved\nRejected\nFor Resubmission"
+   "options": "Awaiting Submission\nFor Inspection\nPending Review\nApproved\nRejected\nFor Resubmission"
   },
   {
    "allow_on_submit": 1,
@@ -162,7 +162,7 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2025-09-03 13:30:15.224724",
+ "modified": "2025-09-04 12:02:10.940460",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "Documentary Requirements",

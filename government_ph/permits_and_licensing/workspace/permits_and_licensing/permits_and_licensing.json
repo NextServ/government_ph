@@ -38,7 +38,7 @@
    "type": "Link"
   }
  ],
- "modified": "2025-09-03 16:40:51.035603",
+ "modified": "2025-09-04 11:42:37.687213",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Permits and Licensing",
@@ -60,7 +60,11 @@
  "parent_page": "Government PH",
  "public": 1,
  "quick_lists": [],
- "roles": [],
+ "roles": [
+  {
+   "role": "LGU - Zoning Office"
+  }
+ ],
  "sequence_id": 24.0,
  "shortcuts": [],
  "title": "Permits and Licensing"
