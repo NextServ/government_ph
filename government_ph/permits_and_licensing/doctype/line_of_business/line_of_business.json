@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "field:line_of_business",
  "creation": "2025-08-18 15:48:59.284464",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -17,16 +18,18 @@
   {
    "fieldname": "line_of_business",
    "fieldtype": "Data",
-   "label": "Line of Business"
+   "label": "Line of Business",
+   "unique": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-03 16:56:44.479163",
+ "modified": "2025-09-04 14:21:23.956798",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Line of Business",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {

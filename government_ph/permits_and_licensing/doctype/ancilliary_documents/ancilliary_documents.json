@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "field:template_name",
  "creation": "2025-08-29 10:12:39.512870",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -22,7 +23,8 @@
   {
    "fieldname": "template_name",
    "fieldtype": "Data",
-   "label": "Template Name"
+   "label": "Template Name",
+   "unique": 1
   },
   {
    "default": "0",
@@ -65,10 +67,11 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-03 16:55:18.086915",
+ "modified": "2025-09-04 14:17:26.840365",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Ancilliary Documents",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {

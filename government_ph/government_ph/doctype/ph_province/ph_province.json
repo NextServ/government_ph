@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "allow_rename": 1,
  "creation": "2025-08-18 10:36:22.539298",
  "doctype": "DocType",
@@ -17,19 +18,22 @@
   {
    "fieldname": "province",
    "fieldtype": "Data",
-   "label": "Province"
+   "label": "Province",
+   "reqd": 1
   },
   {
    "fieldname": "region",
    "fieldtype": "Link",
+   "in_list_view": 1,
    "label": "Region",
-   "options": "PH Region"
+   "options": "PH Region",
+   "reqd": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-03 16:59:13.840563",
+ "modified": "2025-09-04 14:20:08.682771",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "PH Province",

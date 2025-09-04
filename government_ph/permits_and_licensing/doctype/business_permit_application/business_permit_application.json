@@ -516,25 +516,29 @@
    "fieldname": "business_region",
    "fieldtype": "Link",
    "label": "Region",
-   "options": "PH Region"
+   "options": "PH Region",
+   "reqd": 1
   },
   {
    "fieldname": "business_province",
    "fieldtype": "Link",
    "label": "Province",
-   "options": "PH Province"
+   "options": "PH Province",
+   "reqd": 1
   },
   {
    "fieldname": "business_city",
    "fieldtype": "Link",
    "label": "City",
-   "options": "PH City"
+   "options": "PH City",
+   "reqd": 1
   },
   {
    "fieldname": "business_barangay",
    "fieldtype": "Link",
    "label": "Barangay",
-   "options": "PH Barangay"
+   "options": "PH Barangay",
+   "reqd": 1
   },
   {
    "fieldname": "business_postal_code",
@@ -587,13 +591,15 @@
    "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
    "fieldname": "lessors_full_name",
    "fieldtype": "Data",
-   "label": "Lessor's Full Name"
+   "label": "Lessor's Full Name",
+   "mandatory_depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\""
   },
   {
    "depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
    "fieldname": "lessor_region",
    "fieldtype": "Link",
    "label": "Region",
+   "mandatory_depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"",
    "options": "PH Region"
   },
   {
@@ -601,6 +607,7 @@
    "fieldname": "lessor_province",
    "fieldtype": "Link",
    "label": "Province",
+   "mandatory_depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"",
    "options": "PH Province"
   },
   {
@@ -608,6 +615,7 @@
    "fieldname": "lessor_city",
    "fieldtype": "Link",
    "label": "City",
+   "mandatory_depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"",
    "options": "PH City"
   },
   {
@@ -615,6 +623,7 @@
    "fieldname": "lessor_barangay",
    "fieldtype": "Link",
    "label": "Barangay",
+   "mandatory_depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"",
    "options": "PH Barangay"
   },
   {
@@ -784,7 +793,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-04 13:42:59.475501",
+ "modified": "2025-09-04 14:16:35.926535",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",
