@@ -22,17 +22,17 @@ bench set-redis-socketio-host redis:6379
 sed -i '/redis/d' ./Procfile
 sed -i '/watch/d' ./Procfile
 
-bench get-app https://github.com/The-Commit-Company/raven --branch develop
+bench get-app https://github.com/NextServ/government_ph --branch main
 
-bench new-site raven.localhost \
+bench new-site lgu.localhost \
     --force \
     --mariadb-root-password 123 \
     --admin-password admin \
     --no-mariadb-socket
 
-bench --site raven.localhost install-app raven
-bench --site raven.localhost set-config developer_mode 1
-bench --site raven.localhost clear-cache
-bench use raven.localhost
+bench --site lgu.localhost install-app government_ph
+bench --site lgu.localhost set-config developer_mode 1
+bench --site lgu.localhost clear-cache
+bench use lgu.localhost
 
 bench start
