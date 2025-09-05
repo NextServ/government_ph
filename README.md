@@ -2,15 +2,21 @@
 
 An ERPNext Localization for Philippine Government/LGU
 
-### Installation
-
-You can install this app using the [bench](https://github.com/frappe/bench) CLI:
-
-```bash
-cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch develop
-bench install-app government_ph
+## Development setup
+### Docker
+You need Docker, docker-compose and git setup on your machine. Refer [Docker documentation](https://docs.docker.com/). After that, run the following commands:
 ```
+git clone https://github.com/NextServ/government_ph
+cd government_ph/docker
+docker-compose up
+```
+
+Wait for some time until the setup script creates a site. After that you can access `http://localhost:8000` in your browser and the login screen should show up.
+
+Use the following credentials to log in:
+
+- Username: `Administrator`
+- Password: `admin`
 
 ### Contributing
 

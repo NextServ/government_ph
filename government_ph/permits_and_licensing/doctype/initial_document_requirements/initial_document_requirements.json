@@ -1,0 +1,128 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-09-04 22:54:38.662523",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "document_name",
+  "file",
+  "status",
+  "resubmitted_file",
+  "notesremarks",
+  "section_break_rkhc",
+  "file_attached_by",
+  "file_attachment_date",
+  "file_resubmitted_by",
+  "file_resubmitted_date",
+  "column_break_gzyg",
+  "approved_by",
+  "approved_date",
+  "rejected_by",
+  "rejected_date"
+ ],
+ "fields": [
+  {
+   "fieldname": "document_name",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Document Name",
+   "options": "Document"
+  },
+  {
+   "allow_on_submit": 1,
+   "fieldname": "file",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "File"
+  },
+  {
+   "allow_on_submit": 1,
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Status",
+   "options": "Awaiting Submission\nPending Review\nApproved\nRejected\nFor Resubmission"
+  },
+  {
+   "allow_on_submit": 1,
+   "depends_on": "eval:doc.status==\"For Resubmission\"\r\n",
+   "fieldname": "resubmitted_file",
+   "fieldtype": "Attach",
+   "label": "Resubmitted File"
+  },
+  {
+   "allow_on_submit": 1,
+   "fieldname": "notesremarks",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Notes/Remarks"
+  },
+  {
+   "fieldname": "section_break_rkhc",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "file_attached_by",
+   "fieldtype": "Link",
+   "label": "File Attached By",
+   "options": "User"
+  },
+  {
+   "fieldname": "file_attachment_date",
+   "fieldtype": "Datetime",
+   "label": "File Attachment Date"
+  },
+  {
+   "fieldname": "file_resubmitted_by",
+   "fieldtype": "Link",
+   "label": "File Resubmitted By",
+   "options": "User"
+  },
+  {
+   "fieldname": "file_resubmitted_date",
+   "fieldtype": "Datetime",
+   "label": "File Resubmitted Date"
+  },
+  {
+   "fieldname": "column_break_gzyg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "approved_by",
+   "fieldtype": "Link",
+   "label": "Approved By",
+   "options": "User"
+  },
+  {
+   "fieldname": "approved_date",
+   "fieldtype": "Datetime",
+   "label": "Approved Date"
+  },
+  {
+   "fieldname": "rejected_by",
+   "fieldtype": "Link",
+   "label": "Rejected By",
+   "options": "User"
+  },
+  {
+   "fieldname": "rejected_date",
+   "fieldtype": "Datetime",
+   "label": "Rejected Date"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-09-05 00:57:46.068731",
+ "modified_by": "Administrator",
+ "module": "Permits and Licensing",
+ "name": "Initial Document Requirements",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
