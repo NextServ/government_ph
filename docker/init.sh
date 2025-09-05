@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 if [ -d "/home/frappe/frappe-bench/apps/frappe" ]; then
     echo "Bench already exists, skipping init"
@@ -40,4 +40,4 @@ bench --site government_ph.localhost enable-scheduler
 bench --site government_ph.localhost clear-cache
 bench use government_ph.localhost
 
-bench start
+bench serve --host 0.0.0.0 --port 20001

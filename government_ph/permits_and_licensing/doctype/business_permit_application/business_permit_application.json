@@ -2,7 +2,7 @@
  "actions": [],
  "allow_import": 1,
  "allow_rename": 1,
- "autoname": "LGU-.YYYY.-.#####.",
+ "autoname": ".YYYY.-.#####.",
  "creation": "2025-08-18 09:16:53.899286",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -78,6 +78,7 @@
   "are_you_enjoying_tax_incentive_from_any_government_entity",
   "please_specify_the_entity",
   "business_address_section",
+  "same_as_home_address",
   "business_region",
   "business_province",
   "business_city",
@@ -106,13 +107,16 @@
   "lessor_building_name",
   "lessor_street",
   "lessor_subdivision",
-  "business_requirements_tab",
-  "initial_document_requirement",
-  "ancilliary_documents_template",
-  "ancillary_verifications",
   "business_activityrequirements_tab",
   "line_of_business_section",
   "line_of_business",
+  "business_requirements_tab",
+  "initial_verifications_section",
+  "initial_requirement_documents_template",
+  "initial_document_requirement",
+  "endorsing_offices_verification_section",
+  "ancilliary_documents_template",
+  "ancillary_verifications",
   "business_tax_assessment_tab",
   "assessment_of_applicable_fees_section",
   "business_tax",
@@ -223,7 +227,7 @@
   {
    "fieldname": "address_and_contact_section",
    "fieldtype": "Section Break",
-   "label": "Address and Contact"
+   "label": "Home Address and Contact"
   },
   {
    "fieldname": "column_break_clnb",
@@ -686,9 +690,10 @@
    "label": "Subdivision"
   },
   {
+   "depends_on": "eval:!frappe.user.has_role(\"LGU - Zoning Office\")\r\n",
    "fieldname": "business_activityrequirements_tab",
    "fieldtype": "Tab Break",
-   "label": "Business Activity/Requirements"
+   "label": "Business Activity"
   },
   {
    "fieldname": "line_of_business_section",
@@ -715,26 +720,26 @@
    "label": "Date of Application"
   },
   {
-   "depends_on": "eval: doc.workflow_state==\"For Assessment\" || doc.workflow_state==\"For Payment\" || doc.workflow_state==\"For Issuance\"|| doc.workflow_state==\"Licensed Issued\"",
    "fieldname": "business_requirements_tab",
    "fieldtype": "Tab Break",
    "label": "Business Requirements"
   },
   {
+   "allow_bulk_edit": 1,
    "allow_on_submit": 1,
    "fieldname": "initial_document_requirement",
    "fieldtype": "Table",
    "label": "Initial Document Requirement",
-   "options": "Documentary Requirements"
+   "options": "Initial Document Requirements"
   },
   {
    "allow_on_submit": 1,
-   "depends_on": "eval:doc.workflow_state==\"For Endorsement to Ancillary Offices\"",
+   "depends_on": "eval: doc.workflow_state == \"For Endorsement to Ancillary Offices\" \r\n    || doc.workflow_state == \"For Assessment\" \r\n    || doc.workflow_state == \"For Payment\" \r\n    || doc.workflow_state == \"For Issuance\" \r\n    || doc.workflow_state == \"Licensed Issued\"",
    "fieldname": "ancilliary_documents_template",
    "fieldtype": "Link",
    "label": "Ancilliary Documents Template",
    "mandatory_depends_on": "eval:doc.workflow_state==\"For Endorsement to Ancillary Offices\"",
-   "options": "Ancilliary Documents"
+   "options": "Ancilliary Documents Template"
   },
   {
    "allow_on_submit": 1,
@@ -781,19 +786,46 @@
    "fieldtype": "Section Break"
   },
   {
+   "allow_bulk_edit": 1,
    "allow_on_submit": 1,
-   "depends_on": "eval:doc.workflow_state==\"For Endorsement to Ancillary Offices\"",
+   "depends_on": "eval: doc.workflow_state == \"For Endorsement to Ancillary Offices\" \r\n    || doc.workflow_state == \"For Assessment\" \r\n    || doc.workflow_state == \"For Payment\" \r\n    || doc.workflow_state == \"For Issuance\" \r\n    || doc.workflow_state == \"Licensed Issued\"\r\n",
    "fieldname": "ancillary_verifications",
    "fieldtype": "Table",
+   "in_filter": 1,
+   "in_standard_filter": 1,
    "label": "Ancillary Verifications",
-   "options": "Documentary Requirements"
+   "options": "Ancilliary Requirements Table"
+  },
+  {
+   "allow_on_submit": 1,
+   "fieldname": "initial_requirement_documents_template",
+   "fieldtype": "Link",
+   "label": "Initial Requirement Documents Template",
+   "mandatory_depends_on": "eval:doc.workflow_state==\"For Endorsement to Ancillary Offices\"",
+   "options": "Initial Requirement Documents Template"
+  },
+  {
+   "fieldname": "initial_verifications_section",
+   "fieldtype": "Section Break",
+   "label": "Initial Verifications"
+  },
+  {
+   "fieldname": "endorsing_offices_verification_section",
+   "fieldtype": "Section Break",
+   "label": "Endorsing Offices Verification"
+  },
+  {
+   "default": "0",
+   "fieldname": "same_as_home_address",
+   "fieldtype": "Check",
+   "label": "Same as Home Address"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-04 14:16:35.926535",
+ "modified": "2025-09-05 02:33:40.934352",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",

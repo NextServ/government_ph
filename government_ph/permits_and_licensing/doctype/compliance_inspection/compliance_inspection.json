@@ -1,0 +1,111 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-09-05 02:19:45.047477",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_cjwl",
+  "amended_from",
+  "departmentoffice",
+  "scheduled_visit",
+  "actual_visit",
+  "column_break_ryqg",
+  "rating",
+  "inspected_by",
+  "verified_by",
+  "notescomments_section",
+  "long_text_zpbp"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_cjwl",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Compliance Inspection",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "departmentoffice",
+   "fieldtype": "Link",
+   "label": "Department/Office",
+   "options": "Department"
+  },
+  {
+   "fieldname": "scheduled_visit",
+   "fieldtype": "Date",
+   "label": "Scheduled Visit"
+  },
+  {
+   "fieldname": "actual_visit",
+   "fieldtype": "Date",
+   "label": "Actual Visit"
+  },
+  {
+   "fieldname": "column_break_ryqg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "rating",
+   "fieldtype": "Select",
+   "label": "Rating",
+   "options": "Compliant\nNon-Compliant"
+  },
+  {
+   "fieldname": "inspected_by",
+   "fieldtype": "Link",
+   "label": "Inspected By",
+   "options": "User"
+  },
+  {
+   "fieldname": "verified_by",
+   "fieldtype": "Link",
+   "label": "Verified By",
+   "options": "User"
+  },
+  {
+   "fieldname": "notescomments_section",
+   "fieldtype": "Section Break",
+   "label": "Notes/Comments"
+  },
+  {
+   "fieldname": "long_text_zpbp",
+   "fieldtype": "Long Text"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2025-09-05 02:25:09.051585",
+ "modified_by": "Administrator",
+ "module": "Permits and Licensing",
+ "name": "Compliance Inspection",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
