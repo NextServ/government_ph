@@ -24,8 +24,8 @@ bench set-redis-socketio-host redis://redis:6379
 sed -i '/redis/d' ./Procfile
 sed -i '/watch/d' ./Procfile
 
-bench get-app erpnext
-bench get-app hrms
+bench get-app erpnext --branch version-15
+bench get-app https://github.com/NextServ/government_ph
 
 bench new-site government_ph.localhost \
 --force \
@@ -33,7 +33,7 @@ bench new-site government_ph.localhost \
 --admin-password admin \
 --no-mariadb-socket
 
-bench --site government_ph.localhost install-app hrms
+bench --site government_ph.localhost install-app government_ph
 bench --site government_ph.localhost set-config developer_mode 1
 bench --site government_ph.localhost enable-scheduler
 bench --site government_ph.localhost clear-cache
