@@ -2,7 +2,7 @@
 
 An ERPNext Localization for Philippine Government/LGU
 
-## Development setup
+## Development/Demo setup
 ### Docker
 You need Docker, docker-compose and git setup on your machine. Refer [Docker documentation](https://docs.docker.com/). After that, run the following commands:
 ```
