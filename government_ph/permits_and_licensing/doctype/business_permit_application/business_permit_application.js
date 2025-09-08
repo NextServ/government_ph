@@ -45,6 +45,45 @@ frappe.ui.form.on("Business Permit Application", {
 	lessor_city: function (frm) {
 		clear_location_fields(frm, "lessor_", ["barangay"]);
 	},
+
+	before_workflow_action: function (frm) {
+		if (frm.selected_workflow_action === "Reject") {
+			frappe.prompt(
+				[
+					{
+						fieldtype: "Small Text",
+						reqd: true,
+						fieldname: "rejection_reason",
+						label: __("Reason for Rejection"),
+					},
+				],
+				function (values) {
+					frappe.call({
+						method: "frappe.client.set_value",
+						args: {
+							doctype: frm.doctype,
+							name: frm.docname,
+							fieldname: "rejection_reason",
+							value: values.rejection_reason,
+						},
+						callback: function (response) {
+							if (response && !response.exc) {
+								frm.reload_doc(); // Refresh the form
+								frappe.msgprint(__("Rejection reason saved."));
+							} else {
+								frappe.msgprint(
+									__("Failed to save rejection reason. Please try again.")
+								);
+							}
+						},
+					});
+				},
+				__("Reason for Rejection"),
+				__("Submit")
+			);
+			frappe.validated = false;
+		}
+	},
 });
 
 // ---------------- Helper Functions ----------------
