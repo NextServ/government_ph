@@ -84,6 +84,10 @@ frappe.ui.form.on("Business Permit Application", {
 			frappe.validated = false;
 		}
 	},
+	type_of_application: function (frm) {
+		// Trigger helper when type_of_application changes
+		toggle_line_of_business_fields(frm);
+	},
 });
 
 // ---------------- Helper Functions ----------------
@@ -110,4 +114,14 @@ function setup_location_queries(frm, prefix) {
 // Clears dependent fields when higher-level location changes
 function clear_location_fields(frm, prefix, fields = ["province", "city", "barangay"]) {
 	fields.forEach((f) => frm.set_value(prefix + f, ""));
+}
+
+function toggle_line_of_business_fields(frm) {
+	let hide_fields = frm.doc.type_of_application === "New";
+
+	frm.fields_dict.line_of_business.grid.toggle_display("essential", !hide_fields);
+	frm.fields_dict.line_of_business.grid.toggle_display("non_essential", !hide_fields);
+
+	// Re-render child table if already loaded
+	frm.fields_dict.line_of_business.grid.refresh();
 }
