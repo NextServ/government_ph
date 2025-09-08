@@ -236,9 +236,35 @@ app_license = "mit"
 # ]
 
 # Automatically update python controller files with type annotations for this app.
-# export_python_type_annotations = True
+export_python_type_annotations = True
 
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+
+fixtures = [
+	{
+		"doctype": "Role",
+		"filters": [
+			[
+				"name",
+				"in",
+				[
+					"Barangay Officer",
+					"BPLO Head",
+					"DENR Officer",
+					"Endorsing Officer",
+					"Mayor",
+					"BFP Officer",
+					"Health/Sanitary Officer",
+					"Engineer",
+					"Zoning Officer",
+					"Assessor",
+					"Treasurer",
+					"BPLO Officer",
+				],
+			]
+		],
+	}
+]
