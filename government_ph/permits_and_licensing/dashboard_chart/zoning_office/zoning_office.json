@@ -1,0 +1,40 @@
+{
+ "based_on": "creation",
+ "chart_name": "Zoning Office",
+ "chart_type": "Count",
+ "creation": "2025-09-06 03:31:16.914080",
+ "currency": "PHP",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "document_type": "Business Permit Application",
+ "dynamic_filters_json": "[]",
+ "filters_json": "[[\"Ancillary Requirements Table\",\"document_title\",\"=\",\"Zoning Clearance\",false],[\"Ancillary Requirements Table\",\"status\",\"=\",\"Awaiting Submission\",false]]",
+ "from_date": "2025-01-01",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "last_synced_on": "2025-09-08 20:16:03.091430",
+ "modified": "2025-09-08 20:16:30.423572",
+ "modified_by": "Administrator",
+ "module": "Permits and Licensing",
+ "name": "Zoning Office",
+ "number_of_groups": 0,
+ "owner": "Administrator",
+ "parent_document_type": "",
+ "roles": [
+  {
+   "role": "Zoning Officer"
+  }
+ ],
+ "show_values_over_chart": 1,
+ "source": "",
+ "time_interval": "Monthly",
+ "timeseries": 1,
+ "timespan": "Select Date Range",
+ "to_date": "2025-12-31",
+ "type": "Percentage",
+ "use_report_chart": 0,
+ "value_based_on": "",
+ "y_axis": []
+}
