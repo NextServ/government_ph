@@ -1,0 +1,666 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.348712",
+  "name": "Ilocos Norte",
+  "province": "Ilocos Norte",
+  "region": "Region I Ilocos Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.395163",
+  "name": "Pangasinan",
+  "province": "Pangasinan",
+  "region": "Region I Ilocos Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.404693",
+  "name": "Batanes",
+  "province": "Batanes",
+  "region": "Region II Cagayan Valley"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.414913",
+  "name": "Cagayan",
+  "province": "Cagayan",
+  "region": "Region II Cagayan Valley"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.422565",
+  "name": "Isabela",
+  "province": "Isabela",
+  "region": "Region II Cagayan Valley"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.434636",
+  "name": "Nueva Vizcaya",
+  "province": "Nueva Vizcaya",
+  "region": "Region II Cagayan Valley"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.443223",
+  "name": "Quirino",
+  "province": "Quirino",
+  "region": "Region II Cagayan Valley"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.452171",
+  "name": "Aurora",
+  "province": "Aurora",
+  "region": "Region III Central Luzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.462517",
+  "name": "Bataan",
+  "province": "Bataan",
+  "region": "Region III Central Luzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.472470",
+  "name": "Bulacan",
+  "province": "Bulacan",
+  "region": "Region III Central Luzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.481763",
+  "name": "Nueva Ecija",
+  "province": "Nueva Ecija",
+  "region": "Region III Central Luzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.490772",
+  "name": "Pampanga",
+  "province": "Pampanga",
+  "region": "Region III Central Luzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.499448",
+  "name": "Tarlac",
+  "province": "Tarlac",
+  "region": "Region III Central Luzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.509424",
+  "name": "Zambales",
+  "province": "Zambales",
+  "region": "Region III Central Luzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.538508",
+  "name": "Cavite",
+  "province": "Cavite",
+  "region": "Region IV-A Calabarzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.548801",
+  "name": "Laguna",
+  "province": "Laguna",
+  "region": "Region IV-A Calabarzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.558789",
+  "name": "Quezon",
+  "province": "Quezon",
+  "region": "Region IV-A Calabarzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.569429",
+  "name": "Rizal",
+  "province": "Rizal",
+  "region": "Region IV-A Calabarzon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.580224",
+  "name": "Marinduque",
+  "province": "Marinduque",
+  "region": "Region IV-B Mimaropa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.590753",
+  "name": "Occidental Mindoro",
+  "province": "Occidental Mindoro",
+  "region": "Region IV-B Mimaropa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.601271",
+  "name": "Oriental Mindoro",
+  "province": "Oriental Mindoro",
+  "region": "Region IV-B Mimaropa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.610331",
+  "name": "Palawan",
+  "province": "Palawan",
+  "region": "Region IV-B Mimaropa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.620237",
+  "name": "Romblon",
+  "province": "Romblon",
+  "region": "Region IV-B Mimaropa"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.630219",
+  "name": "Albay",
+  "province": "Albay",
+  "region": "Region V Bicol Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.639249",
+  "name": "Camarines Norte",
+  "province": "Camarines Norte",
+  "region": "Region V Bicol Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.650797",
+  "name": "Camarines Sur",
+  "province": "Camarines Sur",
+  "region": "Region V Bicol Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.659988",
+  "name": "Catanduanes",
+  "province": "Catanduanes",
+  "region": "Region V Bicol Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.667661",
+  "name": "Masbate",
+  "province": "Masbate",
+  "region": "Region V Bicol Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.677411",
+  "name": "Sorsogon",
+  "province": "Sorsogon",
+  "region": "Region V Bicol Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.687391",
+  "name": "Aklan",
+  "province": "Aklan",
+  "region": "Region VI Western Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.698022",
+  "name": "Antique",
+  "province": "Antique",
+  "region": "Region VI Western Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.707835",
+  "name": "Capiz",
+  "province": "Capiz",
+  "region": "Region VI Western Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.718820",
+  "name": "Guimaras",
+  "province": "Guimaras",
+  "region": "Region VI Western Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.727669",
+  "name": "Iloilo",
+  "province": "Iloilo",
+  "region": "Region VI Western Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.746325",
+  "name": "Bohol",
+  "province": "Bohol",
+  "region": "Region VII Central Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.754722",
+  "name": "Cebu",
+  "province": "Cebu",
+  "region": "Region VII Central Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.764624",
+  "name": "Negros Oriental",
+  "province": "Negros Oriental",
+  "region": "Region VII Central Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.773692",
+  "name": "Siquijor",
+  "province": "Siquijor",
+  "region": "Region VII Central Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.782403",
+  "name": "Biliran",
+  "province": "Biliran",
+  "region": "Region VIII Eastern Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.791885",
+  "name": "Eastern Samar",
+  "province": "Eastern Samar",
+  "region": "Region VIII Eastern Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.800979",
+  "name": "Leyte",
+  "province": "Leyte",
+  "region": "Region VIII Eastern Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.810068",
+  "name": "Northern Samar",
+  "province": "Northern Samar",
+  "region": "Region VIII Eastern Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.823269",
+  "name": "Samar",
+  "province": "Samar",
+  "region": "Region VIII Eastern Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.832657",
+  "name": "Southern Leyte",
+  "province": "Southern Leyte",
+  "region": "Region VIII Eastern Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.843740",
+  "name": "Zamboanga del Norte",
+  "province": "Zamboanga del Norte",
+  "region": "Region IX Zamboanga Peninsula"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.853517",
+  "name": "Zamboanga del Sur",
+  "province": "Zamboanga del Sur",
+  "region": "Region IX Zamboanga Peninsula"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.862959",
+  "name": "Zamboanga Sibugay",
+  "province": "Zamboanga Sibugay",
+  "region": "Region IX Zamboanga Peninsula"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.871357",
+  "name": "Bukidnon",
+  "province": "Bukidnon",
+  "region": "Region X Northern Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.881914",
+  "name": "Camiguin",
+  "province": "Camiguin",
+  "region": "Region X Northern Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.894044",
+  "name": "Lanao del Norte",
+  "province": "Lanao del Norte",
+  "region": "Region X Northern Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.903183",
+  "name": "Misamis Occidental",
+  "province": "Misamis Occidental",
+  "region": "Region X Northern Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.915442",
+  "name": "Misamis Oriental",
+  "province": "Misamis Oriental",
+  "region": "Region X Northern Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.925343",
+  "name": "Davao de Oro",
+  "province": "Davao de Oro",
+  "region": "Region XI Davao Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.935343",
+  "name": "Davao del Norte",
+  "province": "Davao del Norte",
+  "region": "Region XI Davao Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.947783",
+  "name": "Davao del Sur",
+  "province": "Davao del Sur",
+  "region": "Region XI Davao Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.962147",
+  "name": "Davao Occidental",
+  "province": "Davao Occidental",
+  "region": "Region XI Davao Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.973469",
+  "name": "Davao Oriental",
+  "province": "Davao Oriental",
+  "region": "Region XI Davao Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.984366",
+  "name": "Cotabato",
+  "province": "Cotabato",
+  "region": "Region XII Soccsksargen"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.995930",
+  "name": "Sarangani",
+  "province": "Sarangani",
+  "region": "Region XII Soccsksargen"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.009360",
+  "name": "South Cotabato",
+  "province": "South Cotabato",
+  "region": "Region XII Soccsksargen"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.023059",
+  "name": "Sultan Kudarat",
+  "province": "Sultan Kudarat",
+  "region": "Region XII Soccsksargen"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.035358",
+  "name": "Agusan del Norte",
+  "province": "Agusan del Norte",
+  "region": "Region XIII Caraga"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.045527",
+  "name": "Agusan del Sur",
+  "province": "Agusan del Sur",
+  "region": "Region XIII Caraga"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.055808",
+  "name": "Dinagat Islands",
+  "province": "Dinagat Islands",
+  "region": "Region XIII Caraga"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.065303",
+  "name": "Surigao del Norte",
+  "province": "Surigao del Norte",
+  "region": "Region XIII Caraga"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.077207",
+  "name": "Surigao del Sur",
+  "province": "Surigao del Sur",
+  "region": "Region XIII Caraga"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.089061",
+  "name": "Metro Manila",
+  "province": "Metro Manila",
+  "region": "NCR National Capital Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.101073",
+  "name": "Abra",
+  "province": "Abra",
+  "region": "CAR Cordillera Administrative Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.113789",
+  "name": "Apayao",
+  "province": "Apayao",
+  "region": "CAR Cordillera Administrative Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.129446",
+  "name": "Benguet",
+  "province": "Benguet",
+  "region": "CAR Cordillera Administrative Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.141472",
+  "name": "Ifugao",
+  "province": "Ifugao",
+  "region": "CAR Cordillera Administrative Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.152082",
+  "name": "Kalinga",
+  "province": "Kalinga",
+  "region": "CAR Cordillera Administrative Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.163623",
+  "name": "Mountain Province",
+  "province": "Mountain Province",
+  "region": "CAR Cordillera Administrative Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.174795",
+  "name": "Basilan",
+  "province": "Basilan",
+  "region": "BARMM Bangsamoro Autonomous Region in Muslim Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.188181",
+  "name": "Lanao del Sur",
+  "province": "Lanao del Sur",
+  "region": "BARMM Bangsamoro Autonomous Region in Muslim Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.204067",
+  "name": "Maguindanao del Norte",
+  "province": "Maguindanao del Norte",
+  "region": "BARMM Bangsamoro Autonomous Region in Muslim Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.217494",
+  "name": "Maguindanao del Sur",
+  "province": "Maguindanao del Sur",
+  "region": "BARMM Bangsamoro Autonomous Region in Muslim Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.227775",
+  "name": "Sulu",
+  "province": "Sulu",
+  "region": "BARMM Bangsamoro Autonomous Region in Muslim Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:36.239844",
+  "name": "Tawi-Tawi",
+  "province": "Tawi-Tawi",
+  "region": "BARMM Bangsamoro Autonomous Region in Muslim Mindanao"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.374046",
+  "name": "Ilocos Sur",
+  "province": "Ilocos Sur",
+  "region": "Region I Ilocos Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.385198",
+  "name": "La Union",
+  "province": "La Union",
+  "region": "Region I Ilocos Region"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:58.372132",
+  "name": "Negros Occidental",
+  "province": "Negros Occidental",
+  "region": "Region VI Western Visayas"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "PH Province",
+  "modified": "2025-08-27 17:17:35.526809",
+  "name": "Batangas",
+  "province": "Batangas",
+  "region": "Region IV-A Calabarzon"
+ }
+]

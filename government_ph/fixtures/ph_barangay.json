@@ -1,0 +1,34 @@
+[
+ {
+  "barangay": "Aguioas",
+  "city": "Naguilian La Union",
+  "docstatus": 0,
+  "doctype": "PH Barangay",
+  "modified": "2025-08-29 15:38:11.439297",
+  "name": "Aguioas"
+ },
+ {
+  "barangay": "Alo-o",
+  "city": "Umingan",
+  "docstatus": 0,
+  "doctype": "PH Barangay",
+  "modified": "2025-08-29 15:36:02.385141",
+  "name": "Alo-o"
+ },
+ {
+  "barangay": "Mansilingan",
+  "city": "Bacolod City",
+  "docstatus": 0,
+  "doctype": "PH Barangay",
+  "modified": "2025-08-26 11:00:15.585492",
+  "name": "Mansilingan"
+ },
+ {
+  "barangay": "Acle",
+  "city": "Tuy",
+  "docstatus": 0,
+  "doctype": "PH Barangay",
+  "modified": "2025-09-02 11:15:07.641579",
+  "name": "Acle"
+ }
+]

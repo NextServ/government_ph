@@ -1,0 +1,4194 @@
+[
+ {
+  "citymunicipality": "Bago City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:14:42.502709",
+  "name": "Bago City",
+  "province": ""
+ },
+ {
+  "citymunicipality": "Adams",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.849687",
+  "name": "Adams",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Bacarra",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.874171",
+  "name": "Bacarra",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Badoc",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.885214",
+  "name": "Badoc",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Bangui",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.896944",
+  "name": "Bangui",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Banna (Espiritu)",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.905842",
+  "name": "Banna (Espiritu)",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Batac City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.916018",
+  "name": "Batac City",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Burgos Ilocos Norte",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.927861",
+  "name": "Burgos Ilocos Norte",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Carasi",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.938049",
+  "name": "Carasi",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Currimao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.949742",
+  "name": "Currimao",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Dingras",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.960564",
+  "name": "Dingras",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Dumalneg",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:45.988905",
+  "name": "Dumalneg",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Laoag City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.002382",
+  "name": "Laoag City",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Marcos",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.012196",
+  "name": "Marcos",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Nueva Era",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.024512",
+  "name": "Nueva Era",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Pagudpud",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.034170",
+  "name": "Pagudpud",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Paoay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.045312",
+  "name": "Paoay",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Pasuquin",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.055932",
+  "name": "Pasuquin",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Piddig",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.068075",
+  "name": "Piddig",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Pinili",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.081353",
+  "name": "Pinili",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "San Nicolas Ilocos Norte",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.094650",
+  "name": "San Nicolas Ilocos Norte",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Sarrat",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.103235",
+  "name": "Sarrat",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Solsona",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.113257",
+  "name": "Solsona",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Vintar",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:26:46.122334",
+  "name": "Vintar",
+  "province": "Ilocos Norte"
+ },
+ {
+  "citymunicipality": "Alilem",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.343649",
+  "name": "Alilem",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Banayoyo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.357267",
+  "name": "Banayoyo",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Bantay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.367306",
+  "name": "Bantay",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Cabugao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.383815",
+  "name": "Cabugao",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Candon City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.397361",
+  "name": "Candon City",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Caoayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.416195",
+  "name": "Caoayan",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Cervantes",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.429867",
+  "name": "Cervantes",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Galimuyod",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.440455",
+  "name": "Galimuyod",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Gregorio del Pilar (Concepcion)",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.455901",
+  "name": "Gregorio del Pilar (Concepcion)",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Lidlidda",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.468268",
+  "name": "Lidlidda",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Magsingal",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.479828",
+  "name": "Magsingal",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Nagbukel",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.493887",
+  "name": "Nagbukel",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Narvacan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.508653",
+  "name": "Narvacan",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Quirino (Angkaki)",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.526138",
+  "name": "Quirino (Angkaki)",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Salcedo (Baugen)",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.538113",
+  "name": "Salcedo (Baugen)",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "San Emilio",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.554012",
+  "name": "San Emilio",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "San Esteban",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.564495",
+  "name": "San Esteban",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "San Ildefonso Ilocos Sur",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.576872",
+  "name": "San Ildefonso Ilocos Sur",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "San Juan (Lapog)",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.590038",
+  "name": "San Juan (Lapog)",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "San Vicente Ilocos Sur",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.601168",
+  "name": "San Vicente Ilocos Sur",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Santa",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.617102",
+  "name": "Santa",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Santa Catalina",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.627619",
+  "name": "Santa Catalina",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Santa Cruz Ilocos Sur",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.646380",
+  "name": "Santa Cruz Ilocos Sur",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Santa Lucia",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.659054",
+  "name": "Santa Lucia",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Santa Maria Ilocos Sur",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.670250",
+  "name": "Santa Maria Ilocos Sur",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Santiago",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.680875",
+  "name": "Santiago",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Santo Domingo Ilocos Sur",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.690821",
+  "name": "Santo Domingo Ilocos Sur",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Sigay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.704400",
+  "name": "Sigay",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Sinait",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.717923",
+  "name": "Sinait",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Sugpon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.741267",
+  "name": "Sugpon",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Suyo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.753305",
+  "name": "Suyo",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Tagudin",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.768954",
+  "name": "Tagudin",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Vigan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:29:01.783173",
+  "name": "Vigan City",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Burgos Ilocos Sur",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:32:22.278912",
+  "name": "Burgos Ilocos Sur",
+  "province": "Ilocos Sur"
+ },
+ {
+  "citymunicipality": "Agoo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.545337",
+  "name": "Agoo",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Aringay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.564553",
+  "name": "Aringay",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Bacnotan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.570254",
+  "name": "Bacnotan",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Bagulin",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.576864",
+  "name": "Bagulin",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Balaoan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.582993",
+  "name": "Balaoan",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Bangar",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.593968",
+  "name": "Bangar",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Bauang",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.600545",
+  "name": "Bauang",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Burgos La Union",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.609285",
+  "name": "Burgos La Union",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Caba",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.614873",
+  "name": "Caba",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Luna La Union",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.623949",
+  "name": "Luna La Union",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Naguilian La Union",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.636406",
+  "name": "Naguilian La Union",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Pugo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.648375",
+  "name": "Pugo",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Rosario La Union",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.653747",
+  "name": "Rosario La Union",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "San Fernando La Union",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.661023",
+  "name": "San Fernando La Union",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "San Gabriel",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.670282",
+  "name": "San Gabriel",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "San Juan La Union",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.677935",
+  "name": "San Juan La Union",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Santo Tomas La Union",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.687782",
+  "name": "Santo Tomas La Union",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Santol",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.700094",
+  "name": "Santol",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Sudipen",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.709929",
+  "name": "Sudipen",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Tubao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.718996",
+  "name": "Tubao",
+  "province": "La Union"
+ },
+ {
+  "citymunicipality": "Agno",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.728378",
+  "name": "Agno",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Aguilar",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.737139",
+  "name": "Aguilar",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Alaminos City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.747324",
+  "name": "Alaminos City",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Alcala Pangasinan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.754765",
+  "name": "Alcala Pangasinan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Anda",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.763472",
+  "name": "Anda",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Asingan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.772986",
+  "name": "Asingan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Balungao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.780914",
+  "name": "Balungao",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Bani",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.794698",
+  "name": "Bani",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Basista",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.804281",
+  "name": "Basista",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Bautista",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.813072",
+  "name": "Bautista",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Bayambang",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.822478",
+  "name": "Bayambang",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Binalonan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.832937",
+  "name": "Binalonan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Binmaley",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.842365",
+  "name": "Binmaley",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Bolinao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.851012",
+  "name": "Bolinao",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Bugallon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.859476",
+  "name": "Bugallon",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Calasiao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.875451",
+  "name": "Calasiao",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Dagupan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.885012",
+  "name": "Dagupan City",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Dasol",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.905086",
+  "name": "Dasol",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Infanta",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.913852",
+  "name": "Infanta",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Labrador",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.925503",
+  "name": "Labrador",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Laoac",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.934220",
+  "name": "Laoac",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Lingayen",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.940892",
+  "name": "Lingayen",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Mabini Pangasinan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.948904",
+  "name": "Mabini Pangasinan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Malasiqui",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.957854",
+  "name": "Malasiqui",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Manaoag",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.966183",
+  "name": "Manaoag",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Mangaldan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.974797",
+  "name": "Mangaldan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Mangatarem",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.984024",
+  "name": "Mangatarem",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Mapandan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:23.998459",
+  "name": "Mapandan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Natividad",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.009388",
+  "name": "Natividad",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Pozorrubio",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.017483",
+  "name": "Pozorrubio",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Rosales",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.036334",
+  "name": "Rosales",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "San Carlos City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.047703",
+  "name": "San Carlos City",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "San Fabian",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.057223",
+  "name": "San Fabian",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "San Jacinto",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.066501",
+  "name": "San Jacinto",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "San Manuel Pangasinan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.076458",
+  "name": "San Manuel Pangasinan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "San Quintin",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.098977",
+  "name": "San Quintin",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Santa Barbara",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.108845",
+  "name": "Santa Barbara",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Sison",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.136383",
+  "name": "Sison",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Sual",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.146097",
+  "name": "Sual",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Tayug",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.156755",
+  "name": "Tayug",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Urbiztondo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.177354",
+  "name": "Urbiztondo",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Urdaneta City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.187943",
+  "name": "Urdaneta City",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Villasis",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.201945",
+  "name": "Villasis",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Burgos Pangasinan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:36:40.241871",
+  "name": "Burgos Pangasinan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "San Nicolas Pangasinan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:37:43.001312",
+  "name": "San Nicolas Pangasinan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Santa Maria Pangasinan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:38:37.287070",
+  "name": "Santa Maria Pangasinan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Santo Tomas Pangasinan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:39:38.053738",
+  "name": "Santo Tomas Pangasinan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Basco",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:03.784769",
+  "name": "Basco",
+  "province": "Batanes"
+ },
+ {
+  "citymunicipality": "Ivana",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:03.838781",
+  "name": "Ivana",
+  "province": "Batanes"
+ },
+ {
+  "citymunicipality": "Mahatao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:03.864980",
+  "name": "Mahatao",
+  "province": "Batanes"
+ },
+ {
+  "citymunicipality": "Sabtang",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:03.895144",
+  "name": "Sabtang",
+  "province": "Batanes"
+ },
+ {
+  "citymunicipality": "Uyugan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:03.923427",
+  "name": "Uyugan",
+  "province": "Batanes"
+ },
+ {
+  "citymunicipality": "Tuguegarao City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:03.952039",
+  "name": "Tuguegarao City",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Abulug",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:03.980215",
+  "name": "Abulug",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Allacapan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.031194",
+  "name": "Allacapan",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Amulung",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.050340",
+  "name": "Amulung",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Aparri",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.072309",
+  "name": "Aparri",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Baggao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.094834",
+  "name": "Baggao",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Ballesteros",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.116033",
+  "name": "Ballesteros",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Buguey",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.144384",
+  "name": "Buguey",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Calayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.171074",
+  "name": "Calayan",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Camalaniugan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.191991",
+  "name": "Camalaniugan",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Claveria",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.209032",
+  "name": "Claveria",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Enrile",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.230035",
+  "name": "Enrile",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Gattaran",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.250926",
+  "name": "Gattaran",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Gonzaga",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.272048",
+  "name": "Gonzaga",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Iguig",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.291058",
+  "name": "Iguig",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Lal-lo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.309290",
+  "name": "Lal-lo",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Lasam",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.328431",
+  "name": "Lasam",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Pamplona",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.345474",
+  "name": "Pamplona",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Peñablanca",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.366181",
+  "name": "Peñablanca",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Piat",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.387383",
+  "name": "Piat",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Rizal Cagayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.414133",
+  "name": "Rizal Cagayan",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Sanchez Mira",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.430065",
+  "name": "Sanchez Mira",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Solana",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.450996",
+  "name": "Solana",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Santa Ana Cagayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.471468",
+  "name": "Santa Ana Cagayan",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Santa Praxedes",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.493389",
+  "name": "Santa Praxedes",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Santa Teresita Cagayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.524187",
+  "name": "Santa Teresita Cagayan",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Santo Niño",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.543919",
+  "name": "Santo Niño",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Tuao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.560891",
+  "name": "Tuao",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Ilagan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.580823",
+  "name": "Ilagan City",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Cauayan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.602435",
+  "name": "Cauayan City",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Santiago City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.618521",
+  "name": "Santiago City",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Alicia",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.633868",
+  "name": "Alicia",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Angadanan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.656102",
+  "name": "Angadanan",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Aurora",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.680148",
+  "name": "Aurora",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Benito Soliven",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.706449",
+  "name": "Benito Soliven",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Burgos",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.732245",
+  "name": "Burgos",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Cabagan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.759163",
+  "name": "Cabagan",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Cabatuan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.781229",
+  "name": "Cabatuan",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Cordon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.800894",
+  "name": "Cordon",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Delfin Albano",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.819088",
+  "name": "Delfin Albano",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Dinapigue",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.846061",
+  "name": "Dinapigue",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Divilacan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.895782",
+  "name": "Divilacan",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Echague",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.917761",
+  "name": "Echague",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Gamu",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.936043",
+  "name": "Gamu",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Jones",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.959246",
+  "name": "Jones",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Maconacon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:04.999889",
+  "name": "Maconacon",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Mallig",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.022146",
+  "name": "Mallig",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Palanan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.059813",
+  "name": "Palanan",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Quezon Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.078092",
+  "name": "Quezon Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Quirino",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.098334",
+  "name": "Quirino",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Ramon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.109342",
+  "name": "Ramon",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Reina Mercedes",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.121466",
+  "name": "Reina Mercedes",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Roxas Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.136807",
+  "name": "Roxas Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "San Agustin Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.146955",
+  "name": "San Agustin Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "San Guillermo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.156284",
+  "name": "San Guillermo",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "San Isidro Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.167251",
+  "name": "San Isidro Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "San Mariano",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.190901",
+  "name": "San Mariano",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "San Mateo Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.203084",
+  "name": "San Mateo Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "San Pablo Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.214972",
+  "name": "San Pablo Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Santa Maria Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.225045",
+  "name": "Santa Maria Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Santo Tomas Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.237453",
+  "name": "Santo Tomas Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Tumauini",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.249622",
+  "name": "Tumauini",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Bayombong",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.259877",
+  "name": "Bayombong",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Solano",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.270292",
+  "name": "Solano",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Bagabag",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.281732",
+  "name": "Bagabag",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Aritao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.294435",
+  "name": "Aritao",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Ambaguio",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.306517",
+  "name": "Ambaguio",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Diadi",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.316646",
+  "name": "Diadi",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Dupax del Norte",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.326734",
+  "name": "Dupax del Norte",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Dupax del Sur",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.335662",
+  "name": "Dupax del Sur",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Kasibu",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.346335",
+  "name": "Kasibu",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Villaverde",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.376637",
+  "name": "Villaverde",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Cabarroguis",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.388997",
+  "name": "Cabarroguis",
+  "province": "Quirino"
+ },
+ {
+  "citymunicipality": "Diffun",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.399636",
+  "name": "Diffun",
+  "province": "Quirino"
+ },
+ {
+  "citymunicipality": "Maddela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.409913",
+  "name": "Maddela",
+  "province": "Quirino"
+ },
+ {
+  "citymunicipality": "Nagtipunan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.425251",
+  "name": "Nagtipunan",
+  "province": "Quirino"
+ },
+ {
+  "citymunicipality": "Saguday",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:56:05.441425",
+  "name": "Saguday",
+  "province": "Quirino"
+ },
+ {
+  "citymunicipality": "Alcala Cagayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:57:51.205954",
+  "name": "Alcala Cagayan",
+  "province": "Cagayan"
+ },
+ {
+  "citymunicipality": "Luna Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:58:54.047185",
+  "name": "Luna Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Naguilian Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:59:41.696676",
+  "name": "Naguilian Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "San Manuel Isabela",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 18:04:17.893957",
+  "name": "San Manuel Isabela",
+  "province": "Isabela"
+ },
+ {
+  "citymunicipality": "Quezon Nueva Vizcaya",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 18:05:18.049628",
+  "name": "Quezon Nueva Vizcaya",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Rizal Nueva Vizcaya",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 18:07:03.319732",
+  "name": "Rizal Nueva Vizcaya",
+  "province": "Nueva Vizcaya"
+ },
+ {
+  "citymunicipality": "Angeles City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.573943",
+  "name": "Angeles City",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Mabalacat City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.594773",
+  "name": "Mabalacat City",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Apalit",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.610823",
+  "name": "Apalit",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Arayat",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.619778",
+  "name": "Arayat",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Bacolor",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.629362",
+  "name": "Bacolor",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Candaba",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.639291",
+  "name": "Candaba",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Floridablanca",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.649854",
+  "name": "Floridablanca",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Guagua",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.657981",
+  "name": "Guagua",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Lubao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.668083",
+  "name": "Lubao",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Macabebe",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.677008",
+  "name": "Macabebe",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Masantol",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.685901",
+  "name": "Masantol",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Mexico",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.695767",
+  "name": "Mexico",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Minalin",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.704859",
+  "name": "Minalin",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Porac",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.713841",
+  "name": "Porac",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "San Luis Pampanga",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.722030",
+  "name": "San Luis Pampanga",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "San Simon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.730800",
+  "name": "San Simon",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Santa Rita",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.748011",
+  "name": "Santa Rita",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Sasmuan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.762757",
+  "name": "Sasmuan",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Balanga",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.772699",
+  "name": "Balanga",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Dinalupihan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.780841",
+  "name": "Dinalupihan",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Hermosa",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.789222",
+  "name": "Hermosa",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Limay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.797283",
+  "name": "Limay",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Mariveles",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.806098",
+  "name": "Mariveles",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Morong Bataan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.821948",
+  "name": "Morong Bataan",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Orani",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.832315",
+  "name": "Orani",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Orion",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.841972",
+  "name": "Orion",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Pilar",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.852137",
+  "name": "Pilar",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Abucay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.862361",
+  "name": "Abucay",
+  "province": "Bataan"
+ },
+ {
+  "citymunicipality": "Baler",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.873401",
+  "name": "Baler",
+  "province": "Aurora"
+ },
+ {
+  "citymunicipality": "Casiguran",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.882600",
+  "name": "Casiguran",
+  "province": "Aurora"
+ },
+ {
+  "citymunicipality": "Dilasag",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.891804",
+  "name": "Dilasag",
+  "province": "Aurora"
+ },
+ {
+  "citymunicipality": "Dinalungan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.901338",
+  "name": "Dinalungan",
+  "province": "Aurora"
+ },
+ {
+  "citymunicipality": "Dipaculao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.909857",
+  "name": "Dipaculao",
+  "province": "Aurora"
+ },
+ {
+  "citymunicipality": "Dingalan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.918975",
+  "name": "Dingalan",
+  "province": "Aurora"
+ },
+ {
+  "citymunicipality": "Maria Aurora",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.929660",
+  "name": "Maria Aurora",
+  "province": "Aurora"
+ },
+ {
+  "citymunicipality": "Cabanatuan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.941106",
+  "name": "Cabanatuan City",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Gapan Nueva Ecija",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.951685",
+  "name": "Gapan Nueva Ecija",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "San Jose City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.961910",
+  "name": "San Jose City",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Muñoz City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.978564",
+  "name": "Muñoz City",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Palayan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.988496",
+  "name": "Palayan City",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Aliaga",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:40.998926",
+  "name": "Aliaga",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Bongabon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.009825",
+  "name": "Bongabon",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Cabiao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.020908",
+  "name": "Cabiao",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Carranglan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.032089",
+  "name": "Carranglan",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Cuyapo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.041869",
+  "name": "Cuyapo",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Gabaldon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.054132",
+  "name": "Gabaldon",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "General Mamerto Natividad",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.063994",
+  "name": "General Mamerto Natividad",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "General Tinio",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.075586",
+  "name": "General Tinio",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Guimba",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.089510",
+  "name": "Guimba",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Jaen",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.101082",
+  "name": "Jaen",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Laur",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.110873",
+  "name": "Laur",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Licab",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.121786",
+  "name": "Licab",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Llanera",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.132932",
+  "name": "Llanera",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Lupao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.142339",
+  "name": "Lupao",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Pantabangan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.152244",
+  "name": "Pantabangan",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Peñaranda",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.162531",
+  "name": "Peñaranda",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Quezon Nueva Ecija",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.172807",
+  "name": "Quezon Nueva Ecija",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Rizal Nueva Ecija",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.183363",
+  "name": "Rizal Nueva Ecija",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "San Antonio Nueva Ecija",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.197501",
+  "name": "San Antonio Nueva Ecija",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "San Leonardo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.216214",
+  "name": "San Leonardo",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Santa Rosa",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.225228",
+  "name": "Santa Rosa",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Talavera",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.243585",
+  "name": "Talavera",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Talugtug",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.253768",
+  "name": "Talugtug",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Zaragoza",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.263098",
+  "name": "Zaragoza",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Olongapo City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.283680",
+  "name": "Olongapo City",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "Castillejos",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.293215",
+  "name": "Castillejos",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "San Marcelino",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.302797",
+  "name": "San Marcelino",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "San Narciso Zambales",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.320825",
+  "name": "San Narciso Zambales",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "Candelaria Zambales",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.339446",
+  "name": "Candelaria Zambales",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "Botolan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.347033",
+  "name": "Botolan",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "Iba",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.357019",
+  "name": "Iba",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "Palauig",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.365378",
+  "name": "Palauig",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "Subic",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.373927",
+  "name": "Subic",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "Tarlac City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.383087",
+  "name": "Tarlac City",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Concepcion Tarlac",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.391530",
+  "name": "Concepcion Tarlac",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Capas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.402406",
+  "name": "Capas",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Victoria Tarlac",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.411257",
+  "name": "Victoria Tarlac",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "La Paz",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.421076",
+  "name": "La Paz",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Bamban",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.433685",
+  "name": "Bamban",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "San Clemente",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.443284",
+  "name": "San Clemente",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "San Jose Tarlac",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.452753",
+  "name": "San Jose Tarlac",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Santa Ignacia",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.464064",
+  "name": "Santa Ignacia",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Gerona",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.474150",
+  "name": "Gerona",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Paniqui",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.483560",
+  "name": "Paniqui",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Moncada",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.493007",
+  "name": "Moncada",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Anao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.506403",
+  "name": "Anao",
+  "province": "Tarlac"
+ },
+ {
+  "citymunicipality": "Malolos City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.525678",
+  "name": "Malolos City",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Meycauayan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.531966",
+  "name": "Meycauayan City",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "San Jose del Monte City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.541101",
+  "name": "San Jose del Monte City",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Angat",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.553315",
+  "name": "Angat",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Balagtas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.561304",
+  "name": "Balagtas",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Baliwag",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.569144",
+  "name": "Baliwag",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Bocaue",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.578277",
+  "name": "Bocaue",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Bulacan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.587388",
+  "name": "Bulacan",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Bustos",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.594336",
+  "name": "Bustos",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Calumpit",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.603053",
+  "name": "Calumpit",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Doña Remedios Trinidad",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.613215",
+  "name": "Doña Remedios Trinidad",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Guiguinto",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.622745",
+  "name": "Guiguinto",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Hagonoy",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.638910",
+  "name": "Hagonoy",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Marilao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.647716",
+  "name": "Marilao",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Norzagaray",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.657038",
+  "name": "Norzagaray",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Obando",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.667033",
+  "name": "Obando",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Pandi",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.680159",
+  "name": "Pandi",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Paombong",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.689500",
+  "name": "Paombong",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Plaridel",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.698358",
+  "name": "Plaridel",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Pulilan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.706617",
+  "name": "Pulilan",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "San Miguel",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.722789",
+  "name": "San Miguel",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "San Rafael",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:06:41.733030",
+  "name": "San Rafael",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "San Fernando Pampanga",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:07:51.398132",
+  "name": "San Fernando Pampanga",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Santa Ana Pampanga",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:10:02.182766",
+  "name": "Santa Ana Pampanga",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "Santo Tomas Pampanga",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:11:28.487130",
+  "name": "Santo Tomas Pampanga",
+  "province": "Pampanga"
+ },
+ {
+  "citymunicipality": "San Isidro Nueva Ecija",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:12:24.737052",
+  "name": "San Isidro Nueva Ecija",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "Santo Domingo Nueva Ecija",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:13:32.008295",
+  "name": "Santo Domingo Nueva Ecija",
+  "province": "Nueva Ecija"
+ },
+ {
+  "citymunicipality": "San Antonio Zambales",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:15:15.430683",
+  "name": "San Antonio Zambales",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "Santa Cruz Zambales",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:16:10.611364",
+  "name": "Santa Cruz Zambales",
+  "province": "Zambales"
+ },
+ {
+  "citymunicipality": "San Ildefonso Bulacan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:17:55.494347",
+  "name": "San Ildefonso Bulacan",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Santa Maria Bulacan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:18:48.464215",
+  "name": "Santa Maria Bulacan",
+  "province": "Bulacan"
+ },
+ {
+  "citymunicipality": "Antipolo City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.664716",
+  "name": "Antipolo City",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Angono",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.681039",
+  "name": "Angono",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Baras",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.702809",
+  "name": "Baras",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Binangonan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.712845",
+  "name": "Binangonan",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Cainta",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.722025",
+  "name": "Cainta",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Cardona",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.730199",
+  "name": "Cardona",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Jala-Jala",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.738868",
+  "name": "Jala-Jala",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Pililla",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.760238",
+  "name": "Pililla",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Rodriguez",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.770025",
+  "name": "Rodriguez",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "San Isidro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.781170",
+  "name": "San Isidro",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "San Pedro Rizal",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.808717",
+  "name": "San Pedro Rizal",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Tanay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.817137",
+  "name": "Tanay",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Taytay Rizal",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.825796",
+  "name": "Taytay Rizal",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Teresa",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.836065",
+  "name": "Teresa",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Batangas City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.844916",
+  "name": "Batangas City",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Balayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.856905",
+  "name": "Balayan",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Balete",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.866914",
+  "name": "Balete",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Bauan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.884429",
+  "name": "Bauan",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Calaca",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.893217",
+  "name": "Calaca",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Calatagan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.902152",
+  "name": "Calatagan",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Cuenca",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.910851",
+  "name": "Cuenca",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Ibaan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.921437",
+  "name": "Ibaan",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Laurel",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.933532",
+  "name": "Laurel",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Lemery",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.943029",
+  "name": "Lemery",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Lian",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.960884",
+  "name": "Lian",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Lipa City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.970494",
+  "name": "Lipa City",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Lobo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.980371",
+  "name": "Lobo",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Malvar",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:14.997796",
+  "name": "Malvar",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Mataasnakahoy",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.006697",
+  "name": "Mataasnakahoy",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Nasugbu",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.015200",
+  "name": "Nasugbu",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Padre Garcia",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.025664",
+  "name": "Padre Garcia",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "San Nicolas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.063903",
+  "name": "San Nicolas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "San Pascual Batangas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.072154",
+  "name": "San Pascual Batangas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Santo Tomas Batangas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.093045",
+  "name": "Santo Tomas Batangas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Taal",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.101617",
+  "name": "Taal",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Talisay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.109591",
+  "name": "Talisay",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Tanauan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.118787",
+  "name": "Tanauan City",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Taysan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.129213",
+  "name": "Taysan",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Tingloy",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.139029",
+  "name": "Tingloy",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Cavite City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.158340",
+  "name": "Cavite City",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Bacoor City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.173506",
+  "name": "Bacoor City",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Imus City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.185408",
+  "name": "Imus City",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Dasmariñas City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.195569",
+  "name": "Dasmariñas City",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "General Trias City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.206044",
+  "name": "General Trias City",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Tagaytay City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.215973",
+  "name": "Tagaytay City",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Trece Martires City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.226893",
+  "name": "Trece Martires City",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Carmona",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.235940",
+  "name": "Carmona",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "General Mariano Alvarez",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.252382",
+  "name": "General Mariano Alvarez",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Gen. Trias",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.260763",
+  "name": "Gen. Trias",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Indang",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.272238",
+  "name": "Indang",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Kawit",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.285053",
+  "name": "Kawit",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Magallanes",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.295809",
+  "name": "Magallanes",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Maragondon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.304389",
+  "name": "Maragondon",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Mendez",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.314473",
+  "name": "Mendez",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Naic",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.324669",
+  "name": "Naic",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Noveleta",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.334007",
+  "name": "Noveleta",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Silang",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.349380",
+  "name": "Silang",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Tanza",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.357317",
+  "name": "Tanza",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "Ternate",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.366950",
+  "name": "Ternate",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "San Pablo Laguna",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.383178",
+  "name": "San Pablo Laguna",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Santa Rosa City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.401509",
+  "name": "Santa Rosa City",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Biñan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.410045",
+  "name": "Biñan City",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Cabuyao City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.427230",
+  "name": "Cabuyao City",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Calamba City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.439242",
+  "name": "Calamba City",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Alaminos",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.458160",
+  "name": "Alaminos",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Bay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.466566",
+  "name": "Bay",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Calauan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.475667",
+  "name": "Calauan",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Cavinti",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.485966",
+  "name": "Cavinti",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Famy",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.499200",
+  "name": "Famy",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Kalayaan Laguna",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.508292",
+  "name": "Kalayaan Laguna",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Liliw",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.518509",
+  "name": "Liliw",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Los Baños",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.533249",
+  "name": "Los Baños",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Luisiana",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.542491",
+  "name": "Luisiana",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Lumban",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.552171",
+  "name": "Lumban",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Mabitac",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.562878",
+  "name": "Mabitac",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Magdalena",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.573554",
+  "name": "Magdalena",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Majayjay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.584014",
+  "name": "Majayjay",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Nagcarlan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.594105",
+  "name": "Nagcarlan",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Paete",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.610055",
+  "name": "Paete",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Pagsanjan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.619585",
+  "name": "Pagsanjan",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Pakil",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.629414",
+  "name": "Pakil",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Pangil",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.640299",
+  "name": "Pangil",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Pila",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.650359",
+  "name": "Pila",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Santa Cruz Laguna",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.674529",
+  "name": "Santa Cruz Laguna",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Santa Maria Laguna",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.683012",
+  "name": "Santa Maria Laguna",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Siniloan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.699360",
+  "name": "Siniloan",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Lucena City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.714751",
+  "name": "Lucena City",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Tayabas City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.726647",
+  "name": "Tayabas City",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Sariaya",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.740581",
+  "name": "Sariaya",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Lucban",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.751008",
+  "name": "Lucban",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Tiaong",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.768275",
+  "name": "Tiaong",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "San Antonio",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.776489",
+  "name": "San Antonio",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "San Francisco",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.786407",
+  "name": "San Francisco",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "San Lorenzo Ruiz",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.820165",
+  "name": "San Lorenzo Ruiz",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Santa Elena",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.848263",
+  "name": "Santa Elena",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Tayabas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.880291",
+  "name": "Tayabas",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Morong Rizal",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:58.837986",
+  "name": "Morong Rizal",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "San Juan Batangas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:24:00.890139",
+  "name": "San Juan Batangas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "San Juan Quezon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:24:17.347142",
+  "name": "San Juan Quezon",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "San Juan Rizal",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:24:33.988837",
+  "name": "San Juan Rizal",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "San Mateo Rizal",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:25:40.004848",
+  "name": "San Mateo Rizal",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "San Pablo Rizal",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:27:22.193943",
+  "name": "San Pablo Rizal",
+  "province": "Rizal"
+ },
+ {
+  "citymunicipality": "Mabini Batangas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:28:32.273898",
+  "name": "Mabini Batangas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Rosario Batangas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:29:27.099467",
+  "name": "Rosario Batangas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Rosario Cavite",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:29:44.692810",
+  "name": "Rosario Cavite",
+  "province": "Cavite"
+ },
+ {
+  "citymunicipality": "San Jose Batangas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:30:35.489841",
+  "name": "San Jose Batangas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "San Luis Batangas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:32:19.961744",
+  "name": "San Luis Batangas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "Santa Teresita Batangas",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:33:18.770832",
+  "name": "Santa Teresita Batangas",
+  "province": "Batangas"
+ },
+ {
+  "citymunicipality": "San Pedro Laguna",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:35:08.706786",
+  "name": "San Pedro Laguna",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Rizal Laguna",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:36:36.324776",
+  "name": "Rizal Laguna",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Victoria Laguna",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:38:18.458599",
+  "name": "Victoria Laguna",
+  "province": "Laguna"
+ },
+ {
+  "citymunicipality": "Candelaria Quezon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:39:25.144909",
+  "name": "Candelaria Quezon",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "San Narciso Quezon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:40:50.240388",
+  "name": "San Narciso Quezon",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "San Pascual Quezon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:41:37.085691",
+  "name": "San Pascual Quezon",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "San Vicente Quezon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:43:16.166946",
+  "name": "San Vicente Quezon",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Santa Cruz Quezon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:44:05.051480",
+  "name": "Santa Cruz Quezon",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Santa Maria Quezon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:45:29.404097",
+  "name": "Santa Maria Quezon",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Santo Tomas Quezon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:46:22.957506",
+  "name": "Santo Tomas Quezon",
+  "province": "Quezon"
+ },
+ {
+  "citymunicipality": "Boac",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.413160",
+  "name": "Boac",
+  "province": "Marinduque"
+ },
+ {
+  "citymunicipality": "Buenavista",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.696237",
+  "name": "Buenavista",
+  "province": "Marinduque"
+ },
+ {
+  "citymunicipality": "Gasan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.710589",
+  "name": "Gasan",
+  "province": "Marinduque"
+ },
+ {
+  "citymunicipality": "Mogpog",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.724855",
+  "name": "Mogpog",
+  "province": "Marinduque"
+ },
+ {
+  "citymunicipality": "Santa Cruz Marinduque",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.736997",
+  "name": "Santa Cruz Marinduque",
+  "province": "Marinduque"
+ },
+ {
+  "citymunicipality": "Torrijos",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.745957",
+  "name": "Torrijos",
+  "province": "Marinduque"
+ },
+ {
+  "citymunicipality": "Abra de Ilog",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.755245",
+  "name": "Abra de Ilog",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Calintaan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.764060",
+  "name": "Calintaan",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Looc Occidental Mindoro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.773856",
+  "name": "Looc Occidental Mindoro",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Lubang",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.783291",
+  "name": "Lubang",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Magsaysay Occidental Mindoro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.796159",
+  "name": "Magsaysay Occidental Mindoro",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Mamburao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.805116",
+  "name": "Mamburao",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Paluan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.814498",
+  "name": "Paluan",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Rizal Occidental Mindoro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.825149",
+  "name": "Rizal Occidental Mindoro",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Sablayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.834967",
+  "name": "Sablayan",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "San Jose Occidental Mindoro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.844237",
+  "name": "San Jose Occidental Mindoro",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Baco",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.864115",
+  "name": "Baco",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Bansud",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.874203",
+  "name": "Bansud",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Bongabong",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.883984",
+  "name": "Bongabong",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Bulalacao",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.894424",
+  "name": "Bulalacao",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Calapan City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.903658",
+  "name": "Calapan City",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Gloria",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.913650",
+  "name": "Gloria",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Mansalay",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.925204",
+  "name": "Mansalay",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Naujan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.938527",
+  "name": "Naujan",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Pinamalayan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.952480",
+  "name": "Pinamalayan",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Pola",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.962764",
+  "name": "Pola",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Puerto Galera",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.981451",
+  "name": "Puerto Galera",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "San Teodoro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:56.998140",
+  "name": "San Teodoro",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Socorro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.008202",
+  "name": "Socorro",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Victoria",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.016366",
+  "name": "Victoria",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Aborlan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.028180",
+  "name": "Aborlan",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Agutaya",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.039749",
+  "name": "Agutaya",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Araceli",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.049378",
+  "name": "Araceli",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Balabac",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.059764",
+  "name": "Balabac",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Bataraza",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.071139",
+  "name": "Bataraza",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Brooke's Point",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.080121",
+  "name": "Brooke's Point",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Busuanga",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.089973",
+  "name": "Busuanga",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Cagayancillo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.099743",
+  "name": "Cagayancillo",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Coron",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.110774",
+  "name": "Coron",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Culion",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.122346",
+  "name": "Culion",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Cuyo",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.132080",
+  "name": "Cuyo",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Dumaran",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.142202",
+  "name": "Dumaran",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "El Nido",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.150836",
+  "name": "El Nido",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Linapacan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.168022",
+  "name": "Linapacan",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Narra",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.184582",
+  "name": "Narra",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Puerto Princesa City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.197398",
+  "name": "Puerto Princesa City",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "San Vicente",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.229438",
+  "name": "San Vicente",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Sofronio Española",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.240248",
+  "name": "Sofronio Española",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Alcantara",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.258062",
+  "name": "Alcantara",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Banton",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.267262",
+  "name": "Banton",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Cajidiocan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.279874",
+  "name": "Cajidiocan",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Calatrava",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.289929",
+  "name": "Calatrava",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Corcuera",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.307199",
+  "name": "Corcuera",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Ferrol",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.316035",
+  "name": "Ferrol",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Magdiwang",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.331352",
+  "name": "Magdiwang",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Odiongan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.342001",
+  "name": "Odiongan",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Romblon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.351132",
+  "name": "Romblon",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "San Andres",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.366471",
+  "name": "San Andres",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "San Fernando",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.373285",
+  "name": "San Fernando",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Santa Fe",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.387704",
+  "name": "Santa Fe",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Santa Maria",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:49:57.395851",
+  "name": "Santa Maria",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Santa Cruz Occidental Mindoro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:50:45.210684",
+  "name": "Santa Cruz Occidental Mindoro",
+  "province": "Occidental Mindoro"
+ },
+ {
+  "citymunicipality": "Roxas Oriental Mindoro",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:55:13.395060",
+  "name": "Roxas Oriental Mindoro",
+  "province": "Oriental Mindoro"
+ },
+ {
+  "citymunicipality": "Roxas Palawan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:55:31.509201",
+  "name": "Roxas Palawan",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Kalayaan Palawan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:56:15.533321",
+  "name": "Kalayaan Palawan",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Magsaysay Palawan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:56:58.220882",
+  "name": "Magsaysay Palawan",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Quezon Palawan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:57:59.409644",
+  "name": "Quezon Palawan",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Rizal Palawan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:58:45.186266",
+  "name": "Rizal Palawan",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Taytay Palawan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:59:49.357291",
+  "name": "Taytay Palawan",
+  "province": "Palawan"
+ },
+ {
+  "citymunicipality": "Concepcion Romblon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 21:00:31.721975",
+  "name": "Concepcion Romblon",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Looc Romblon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 21:01:13.423152",
+  "name": "Looc Romblon",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "San Agustin Romblon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 21:02:08.876163",
+  "name": "San Agustin Romblon",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "San Jose Romblon",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 21:03:08.612877",
+  "name": "San Jose Romblon",
+  "province": "Romblon"
+ },
+ {
+  "citymunicipality": "Umingan",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 17:35:24.168747",
+  "name": "Umingan",
+  "province": "Pangasinan"
+ },
+ {
+  "citymunicipality": "Bacolod City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-26 10:55:56.404702",
+  "name": "Bacolod City",
+  "province": "Negros Occidental"
+ },
+ {
+  "citymunicipality": "Tuy",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-08-27 20:22:15.148802",
+  "name": "Tuy",
+  "province": "Batangas"
+ }
+]
