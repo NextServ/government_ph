@@ -8,7 +8,7 @@ An ERPNext Localization for Philippine Government/LGU
 
 You need Docker, docker-compose and git setup on your machine. Refer [Docker documentation](https://docs.docker.com/).
 
-## ⚠️ Note for Windows Users
+#### ⚠️ Note for Windows Users
 
 After installing or setting up Git, run the following command to prevent issues where script files get converted to **CRLF** instead of **LF** (which can break shell scripts):
 
