@@ -5,7 +5,7 @@
    "label": "Business Permit Application"
   }
  ],
- "content": "[{\"id\":\"HjeJHmfKuq\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Permits and Licensing</span>\",\"col\":12}},{\"id\":\"5D3guvdaIQ\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Business Permit Application\",\"col\":12}},{\"id\":\"18gsUUurJ6\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Applications\",\"col\":4}},{\"id\":\"yWir8-B6lm\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"For BPLO Verification\",\"col\":4}},{\"id\":\"ltBwj-t3jw\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"For Assessment\",\"col\":4}},{\"id\":\"v3XpQwr5uR\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}}]",
+ "content": "[{\"id\":\"HjeJHmfKuq\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Permits and Licensing</span>\",\"col\":12}},{\"id\":\"5D3guvdaIQ\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Business Permit Application\",\"col\":12}},{\"id\":\"whqNF6Djim\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Permits and Licensing Dashboard\",\"col\":9}},{\"id\":\"18gsUUurJ6\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Applications\",\"col\":4}},{\"id\":\"yWir8-B6lm\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"For BPLO Verification\",\"col\":4}},{\"id\":\"cZUtepv-xK\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"For Issuance\",\"col\":4}},{\"id\":\"ltBwj-t3jw\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"For Assessment\",\"col\":4}},{\"id\":\"K_CLJ5xHfE\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"v3XpQwr5uR\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}}]",
  "creation": "2025-09-02 16:43:36.130873",
  "custom_blocks": [],
  "docstatus": 0,
@@ -38,11 +38,15 @@
    "type": "Link"
   }
  ],
- "modified": "2025-09-04 11:42:37.687213",
+ "modified": "2025-09-06 03:37:24.372408",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Permits and Licensing",
  "number_cards": [
+  {
+   "label": "For Issuance",
+   "number_card_name": "For Issuance"
+  },
   {
    "label": "Total Applications",
    "number_card_name": "Total Applications"
@@ -60,12 +64,16 @@
  "parent_page": "Government PH",
  "public": 1,
  "quick_lists": [],
- "roles": [
+ "roles": [],
+ "sequence_id": 24.0,
+ "shortcuts": [
   {
-   "role": "LGU - Zoning Office"
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Permits and Licensing Dashboard",
+   "link_to": "Permits and Licensing",
+   "type": "Dashboard"
   }
  ],
- "sequence_id": 24.0,
- "shortcuts": [],
  "title": "Permits and Licensing"
 }

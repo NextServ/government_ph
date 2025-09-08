@@ -10,6 +10,7 @@
   "taxpayers_information_tab",
   "section_break_fuxa",
   "amended_from",
+  "rejection_reason",
   "application_details_section",
   "type_of_application",
   "business_identification_number",
@@ -23,6 +24,7 @@
   "middle_name",
   "last_name",
   "extension_name",
+  "registrant_full_name",
   "column_break_ucbl",
   "sex",
   "birthday",
@@ -32,12 +34,12 @@
   "province",
   "city",
   "barangay",
+  "postal_code",
   "house_number",
   "unit_no",
   "building_name",
   "street",
   "subdivision",
-  "postal_code",
   "column_break_jrnr",
   "telephone_number",
   "mobile_number",
@@ -114,11 +116,13 @@
   "initial_verifications_section",
   "initial_requirement_documents_template",
   "initial_document_requirement",
+  "note",
   "endorsing_offices_verification_section",
   "ancilliary_documents_template",
   "ancillary_verifications",
   "business_tax_assessment_tab",
   "assessment_of_applicable_fees_section",
+  "business_tax_assessment_template",
   "business_tax",
   "section_break_yjsu",
   "approved_by",
@@ -290,7 +294,8 @@
    "fieldname": "postal_code",
    "fieldtype": "Link",
    "label": "Postal Code",
-   "options": "PH Postal Code"
+   "options": "PH Postal Code",
+   "reqd": 1
   },
   {
    "fieldname": "column_break_jrnr",
@@ -548,7 +553,9 @@
    "fieldname": "business_postal_code",
    "fieldtype": "Link",
    "label": "Postal Code",
-   "options": "PH Postal Code"
+   "mandatory_depends_on": "eval:doc.is_the_place_of_business_rented==\"Yes\"\r\n",
+   "options": "PH Postal Code",
+   "reqd": 1
   },
   {
    "fieldname": "column_break_uyqn",
@@ -734,12 +741,12 @@
   },
   {
    "allow_on_submit": 1,
-   "depends_on": "eval: doc.workflow_state == \"For Endorsement to Ancillary Offices\" \r\n    || doc.workflow_state == \"For Assessment\" \r\n    || doc.workflow_state == \"For Payment\" \r\n    || doc.workflow_state == \"For Issuance\" \r\n    || doc.workflow_state == \"Licensed Issued\"",
+   "depends_on": "eval: (\r\n    doc.workflow_state == \"For Endorsement to Ancillary Offices\"\r\n    || doc.workflow_state == \"For Assessment\"\r\n    || doc.workflow_state == \"For Payment\"\r\n    || doc.workflow_state == \"For Issuance\"\r\n    || doc.workflow_state == \"Licensed Issued\"\r\n    || (doc.workflow_state == \"For Verification\" && frappe.user.has_role(\"LGU - BPLO Officer\"))\r\n)\r\n",
    "fieldname": "ancilliary_documents_template",
    "fieldtype": "Link",
-   "label": "Ancilliary Documents Template",
+   "label": "Ancillary Documents Template",
    "mandatory_depends_on": "eval:doc.workflow_state==\"For Endorsement to Ancillary Offices\"",
-   "options": "Ancilliary Documents Template"
+   "options": "Ancillary Documents Template"
   },
   {
    "allow_on_submit": 1,
@@ -788,13 +795,13 @@
   {
    "allow_bulk_edit": 1,
    "allow_on_submit": 1,
-   "depends_on": "eval: doc.workflow_state == \"For Endorsement to Ancillary Offices\" \r\n    || doc.workflow_state == \"For Assessment\" \r\n    || doc.workflow_state == \"For Payment\" \r\n    || doc.workflow_state == \"For Issuance\" \r\n    || doc.workflow_state == \"Licensed Issued\"\r\n",
+   "depends_on": "eval: (\r\n    doc.workflow_state == \"For Endorsement to Ancillary Offices\"\r\n    || doc.workflow_state == \"For Assessment\"\r\n    || doc.workflow_state == \"For Payment\"\r\n    || doc.workflow_state == \"For Issuance\"\r\n    || doc.workflow_state == \"Licensed Issued\"\r\n    || (doc.workflow_state == \"For Verification\" && frappe.user.has_role(\"LGU - BPLO Officer\"))\r\n)\r\n",
    "fieldname": "ancillary_verifications",
    "fieldtype": "Table",
    "in_filter": 1,
    "in_standard_filter": 1,
    "label": "Ancillary Verifications",
-   "options": "Ancilliary Requirements Table"
+   "options": "Ancillary Requirements Table"
   },
   {
    "allow_on_submit": 1,
@@ -819,13 +826,39 @@
    "fieldname": "same_as_home_address",
    "fieldtype": "Check",
    "label": "Same as Home Address"
+  },
+  {
+   "allow_on_submit": 1,
+   "fieldname": "business_tax_assessment_template",
+   "fieldtype": "Link",
+   "label": "Business Tax Assessment Template",
+   "mandatory_depends_on": "eval: doc.workflow_state==\"For Assessment\" || doc.workflow_state==\"For Payment\" || doc.workflow_state==\"For Issuance\"|| doc.workflow_state==\"Licensed Issued\"",
+   "options": "Business Tax Assessment Template"
+  },
+  {
+   "allow_on_submit": 1,
+   "depends_on": "eval: doc.workflow_state==\"Rejected\"",
+   "fieldname": "rejection_reason",
+   "fieldtype": "Small Text",
+   "label": "Reason for Rejection"
+  },
+  {
+   "fieldname": "registrant_full_name",
+   "fieldtype": "Data",
+   "label": "Full Name"
+  },
+  {
+   "fieldname": "note",
+   "fieldtype": "HTML",
+   "label": "Note",
+   "options": "<div style=\"color:red; font-weight:bold; padding:4px 0;\">\n\u26a0 If all Initial Document Requirements are verified and approved, you may select the Ancillary Document Template to proceed to endorsing offices.\n</div>"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-05 02:33:40.934352",
+ "modified": "2025-09-08 11:57:16.728481",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",

@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class AncilliaryDocuments(Document):
+class BusinessTaxAssessmentTemplate(Document):
 	pass

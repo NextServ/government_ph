@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestAncilliaryDocumentsTemplate(FrappeTestCase):
+class TestBusinessTaxAssessmentTemplate(FrappeTestCase):
 	pass

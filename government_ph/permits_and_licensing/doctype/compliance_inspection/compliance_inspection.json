@@ -11,6 +11,7 @@
   "scheduled_visit",
   "actual_visit",
   "column_break_ryqg",
+  "business_permit_application",
   "rating",
   "inspected_by",
   "verified_by",
@@ -78,13 +79,19 @@
   {
    "fieldname": "long_text_zpbp",
    "fieldtype": "Long Text"
+  },
+  {
+   "fieldname": "business_permit_application",
+   "fieldtype": "Link",
+   "label": "Business Permit Application",
+   "options": "Business Permit Application"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-05 02:25:09.051585",
+ "modified": "2025-09-08 13:21:19.414774",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Compliance Inspection",

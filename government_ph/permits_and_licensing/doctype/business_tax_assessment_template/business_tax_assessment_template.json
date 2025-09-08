@@ -1,19 +1,17 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:template_name",
- "creation": "2025-09-04 23:14:05.553224",
+ "creation": "2025-09-06 00:37:05.172377",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
   "template_name",
-  "application_type",
-  "column_break_jtve",
+  "column_break_nwhq",
   "company",
   "default",
   "disabled",
-  "initial_requirement_section",
-  "initial_requirement_checklist"
+  "applicable_fees_section",
+  "business_tax"
  ],
  "fields": [
   {
@@ -21,28 +19,17 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Template Name",
-   "reqd": 1,
-   "unique": 1
-  },
-  {
-   "fieldname": "application_type",
-   "fieldtype": "Select",
-   "in_list_view": 1,
-   "label": "Application Type",
-   "options": "New\nRenewal\nOthers",
    "reqd": 1
   },
   {
-   "fieldname": "column_break_jtve",
+   "fieldname": "column_break_nwhq",
    "fieldtype": "Column Break"
   },
   {
    "fieldname": "company",
    "fieldtype": "Link",
-   "in_list_view": 1,
    "label": "Company",
-   "options": "Company",
-   "reqd": 1
+   "options": "Company"
   },
   {
    "default": "0",
@@ -57,26 +44,24 @@
    "label": "Disabled"
   },
   {
-   "fieldname": "initial_requirement_section",
+   "fieldname": "applicable_fees_section",
    "fieldtype": "Section Break",
-   "label": "Initial Requirement"
+   "label": "Applicable Fees"
   },
   {
-   "allow_in_quick_entry": 1,
-   "fieldname": "initial_requirement_checklist",
+   "fieldname": "business_tax",
    "fieldtype": "Table",
-   "label": "Initial Requirement Checklist",
-   "options": "Initial Document Requirements"
+   "label": "Business Tax",
+   "options": "Business Tax Table"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-08 10:39:26.450090",
+ "modified": "2025-09-06 00:42:22.804510",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
- "name": "Initial Requirement Documents Template",
- "naming_rule": "By fieldname",
+ "name": "Business Tax Assessment Template",
  "owner": "Administrator",
  "permissions": [
   {

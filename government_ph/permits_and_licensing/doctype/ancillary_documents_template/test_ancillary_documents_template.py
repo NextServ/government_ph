@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestAncilliaryDocuments(FrappeTestCase):
+class TestAncillaryDocumentsTemplate(FrappeTestCase):
 	pass

@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "field:template_name",
  "creation": "2025-08-29 10:12:39.512870",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -22,17 +23,8 @@
   {
    "fieldname": "template_name",
    "fieldtype": "Data",
-   "label": "Template Name"
-  },
-  {
-   "fieldname": "company",
-   "fieldtype": "Link",
-   "in_list_view": 1,
-   "in_standard_filter": 1,
-   "label": "Company",
-   "options": "Company",
-   "remember_last_selected_value": 1,
-   "reqd": 1
+   "label": "Template Name",
+   "unique": 1
   },
   {
    "default": "0",
@@ -51,6 +43,16 @@
    "fieldtype": "Column Break"
   },
   {
+   "fieldname": "company",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Company",
+   "options": "Company",
+   "remember_last_selected_value": 1,
+   "reqd": 1
+  },
+  {
    "fieldname": "ancilliary_requirement_section",
    "fieldtype": "Section Break",
    "label": "Ancilliary Requirement"
@@ -58,17 +60,18 @@
   {
    "fieldname": "link_dazm",
    "fieldtype": "Table",
-   "label": "Ancilliary Checklist",
-   "options": "Documentary Requirements"
+   "label": "Ancillary Checklist",
+   "options": "Ancillary Requirements Table"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-29 13:57:11.566812",
+ "modified": "2025-09-06 03:10:35.949393",
  "modified_by": "Administrator",
- "module": "Government PH",
- "name": "Ancilliary Documents",
+ "module": "Permits and Licensing",
+ "name": "Ancillary Documents Template",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {

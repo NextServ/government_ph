@@ -163,8 +163,8 @@
    "allow_on_submit": 1,
    "fieldname": "assigned_role",
    "fieldtype": "Link",
-   "label": "Assigned Role",
-   "options": "Role"
+   "label": "Assigned To",
+   "options": "User"
   },
   {
    "allow_on_submit": 1,
@@ -178,10 +178,10 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2025-09-05 02:30:45.134444",
+ "modified": "2025-09-08 11:59:49.568265",
  "modified_by": "Administrator",
  "module": "Government PH",
- "name": "Ancilliary Requirements Table",
+ "name": "Ancillary Requirements Table",
  "owner": "Administrator",
  "permissions": [],
  "row_format": "Dynamic",

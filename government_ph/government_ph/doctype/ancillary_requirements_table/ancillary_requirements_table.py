@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class AncilliaryDocumentsTemplate(Document):
+class AncillaryRequirementsTable(Document):
 	pass
