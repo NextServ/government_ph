@@ -111,17 +111,25 @@ function setup_location_queries(frm, prefix) {
 	});
 }
 
-// Clears dependent fields when higher-level location changes
-function clear_location_fields(frm, prefix, fields = ["province", "city", "barangay"]) {
-	fields.forEach((f) => frm.set_value(prefix + f, ""));
-}
-
 function toggle_line_of_business_fields(frm) {
 	let hide_fields = frm.doc.type_of_application === "New";
 
+	// Hide in form editor (child row popup)
 	frm.fields_dict.line_of_business.grid.toggle_display("essential", !hide_fields);
 	frm.fields_dict.line_of_business.grid.toggle_display("non_essential", !hide_fields);
 
-	// Re-render child table if already loaded
+	// Hide in grid/list view
+	frm.fields_dict.line_of_business.grid.update_docfield_property(
+		"essential",
+		"in_list_view",
+		!hide_fields
+	);
+	frm.fields_dict.line_of_business.grid.update_docfield_property(
+		"non_essential",
+		"in_list_view",
+		!hide_fields
+	);
+
+	// Refresh grid to apply
 	frm.fields_dict.line_of_business.grid.refresh();
 }
