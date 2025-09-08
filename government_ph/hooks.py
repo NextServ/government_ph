@@ -242,7 +242,6 @@ export_python_type_annotations = True
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
-
 fixtures = [
 	{
 		"doctype": "Role",
@@ -266,5 +265,10 @@ fixtures = [
 				],
 			]
 		],
-	}
+	},
+	{"doctype": "PH Region"},
+	{"doctype": "PH Province"},
+	{"doctype": "PH City"},
+	{"doctype": "PH Barangay"},
+	{"doctype": "PH Postal Code"},
 ]
