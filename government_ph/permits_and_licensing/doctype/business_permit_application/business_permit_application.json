@@ -3,6 +3,7 @@
  "allow_import": 1,
  "allow_rename": 1,
  "autoname": ".YYYY.-.#####.",
+ "color": "#90EE90",
  "creation": "2025-08-18 09:16:53.899286",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -11,6 +12,8 @@
   "section_break_fuxa",
   "amended_from",
   "rejection_reason",
+  "rejected_by",
+  "rejected_time",
   "application_details_section",
   "type_of_application",
   "business_identification_number",
@@ -112,6 +115,8 @@
   "business_activityrequirements_tab",
   "line_of_business_section",
   "line_of_business",
+  "section_break_txbo",
+  "measure_and_pax_details",
   "business_requirements_tab",
   "initial_verifications_section",
   "initial_requirement_documents_template",
@@ -852,13 +857,36 @@
    "fieldtype": "HTML",
    "label": "Note",
    "options": "<div style=\"color:red; font-weight:bold; padding:4px 0;\">\n\u26a0 If all Initial Document Requirements are verified and approved, you may select the Ancillary Document Template to proceed to endorsing offices.\n</div>"
+  },
+  {
+   "depends_on": "eval:doc.workflow_state==\"Rejected\"",
+   "fieldname": "rejected_by",
+   "fieldtype": "Link",
+   "label": "Rejected By",
+   "options": "User"
+  },
+  {
+   "depends_on": "eval:doc.workflow_state==\"Rejected\"",
+   "fieldname": "rejected_time",
+   "fieldtype": "Datetime",
+   "label": "Rejected Time"
+  },
+  {
+   "fieldname": "section_break_txbo",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "measure_and_pax_details",
+   "fieldtype": "Table",
+   "label": "Measure and Pax Details",
+   "options": "Measure and Pax Details"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-08 11:57:16.728481",
+ "modified": "2025-09-08 15:02:44.989995",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",
@@ -876,6 +904,18 @@
    "role": "System Manager",
    "share": 1,
    "submit": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Zoning Officer",
+   "share": 1,
    "write": 1
   }
  ],

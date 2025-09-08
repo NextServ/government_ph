@@ -6,19 +6,44 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "section_break_asr5"
+  "number_of_unit",
+  "capacity",
+  "measure_or_pax",
+  "link_sojv"
  ],
  "fields": [
   {
-   "fieldname": "section_break_asr5",
-   "fieldtype": "Section Break"
+   "fieldname": "number_of_unit",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Number of Unit"
+  },
+  {
+   "fieldname": "capacity",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Capacity"
+  },
+  {
+   "fieldname": "measure_or_pax",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Measure or Pax",
+   "options": "Measure or Pax"
+  },
+  {
+   "fieldname": "link_sojv",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Line of Business",
+   "options": "Line of Business"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2025-08-18 16:30:32.469439",
+ "modified": "2025-09-08 14:54:01.161010",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "Measure and Pax Details",
