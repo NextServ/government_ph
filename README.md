@@ -2,10 +2,24 @@
 
 An ERPNext Localization for Philippine Government/LGU
 
-## Development/Demo setup
+## Getting Started (Development/Demo setup)
+
 ### Docker
-You need Docker, docker-compose and git setup on your machine. Refer [Docker documentation](https://docs.docker.com/). After that, run the following commands:
+
+You need Docker, docker-compose and git setup on your machine. Refer [Docker documentation](https://docs.docker.com/).
+
+## ⚠️ Note for Windows Users
+
+After installing or setting up Git, run the following command to prevent issues where script files get converted to **CRLF** instead of **LF** (which can break shell scripts):
+
+```bash
+git config --global core.autocrlf false
+
 ```
+
+After that, run the following commands:
+
+```bash
 git clone https://github.com/NextServ/government_ph
 cd government_ph/docker
 docker-compose up
