@@ -3,7 +3,13 @@
 
 # import frappe
 from frappe.model.document import Document
+from frappe.utils import nowdate
 
 
 class BusinessPermitApplication(Document):
-	pass
+	def on_submit(self):
+		if not self.date_of_application:
+			self.date_of_application = nowdate()
+			# ignore user permissions when writing directly
+			self.flags.ignore_permissions = True
+			self.db_update()
