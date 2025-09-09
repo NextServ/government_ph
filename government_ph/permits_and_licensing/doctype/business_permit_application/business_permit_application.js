@@ -194,7 +194,7 @@ function toggle_line_of_business_fields(frm) {
 	frm.fields_dict.line_of_business.grid.refresh();
 }
 
-frappe.ui.form.on("Business Tax Payment", {
+frappe.ui.form.on("Business Tax Table", {
 	amount_due: function (frm, cdt, cdn) {
 		calculate_total_business_tax(cdt, cdn, frm);
 		calculate_total_due(frm);
@@ -208,13 +208,13 @@ frappe.ui.form.on("Business Tax Payment", {
 function calculate_total_business_tax(cdt, cdn, frm) {
 	let row = locals[cdt][cdn];
 	row.total = (row.amount_due || 0) + (row.penaltysurcharge || 0);
-	frm.refresh_field("business_tax_payment");
+	frm.refresh_field("business_tax");
 }
 
 function calculate_total_due(frm) {
 	let total_due = 0;
 
-	(frm.doc.business_tax_payment || []).forEach((row) => {
+	(frm.doc.business_tax || []).forEach((row) => {
 		total_due += row.total || 0;
 	});
 
