@@ -1,0 +1,209 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:43:29.960350",
+  "name": "LGU - Zoning Office",
+  "role_profile": "Zoning Officer",
+  "roles": [
+   {
+    "parent": "LGU - Zoning Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Endorsing Officer"
+   },
+   {
+    "parent": "LGU - Zoning Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Zoning Officer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:43:17.521923",
+  "name": "LGU - BFP Office",
+  "role_profile": "BFP Officer",
+  "roles": [
+   {
+    "parent": "LGU - BFP Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Endorsing Officer"
+   },
+   {
+    "parent": "LGU - BFP Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "BFP Officer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:43:02.937898",
+  "name": "BPLO Head",
+  "role_profile": "BPLO Head",
+  "roles": [
+   {
+    "parent": "BPLO Head",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "BPLO Head"
+   },
+   {
+    "parent": "BPLO Head",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "BPLO Officer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:42:42.858589",
+  "name": "LGU - Barangay",
+  "role_profile": "Barangay Officer",
+  "roles": [
+   {
+    "parent": "LGU - Barangay",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Barangay Officer"
+   },
+   {
+    "parent": "LGU - Barangay",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Endorsing Officer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:42:04.648836",
+  "name": "LGU - DENR Office",
+  "role_profile": "DENR Officer",
+  "roles": [
+   {
+    "parent": "LGU - DENR Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Endorsing Officer"
+   },
+   {
+    "parent": "LGU - DENR Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "DENR Officer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-08 13:06:32.785764",
+  "name": "City Engineer",
+  "role_profile": "City Engineer",
+  "roles": [
+   {
+    "parent": "City Engineer",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Engineer"
+   },
+   {
+    "parent": "City Engineer",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Endorsing Officer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:45:20.759303",
+  "name": "Treasurer's Office",
+  "role_profile": "Treasurer",
+  "roles": [
+   {
+    "parent": "Treasurer's Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Treasurer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:44:25.024741",
+  "name": "Health/Sanitary Office",
+  "role_profile": "Health/Sanitary Officer",
+  "roles": [
+   {
+    "parent": "Health/Sanitary Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Endorsing Officer"
+   },
+   {
+    "parent": "Health/Sanitary Office",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Health/Sanitary Officer"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:44:10.934142",
+  "name": "Mayor",
+  "role_profile": "Mayor",
+  "roles": [
+   {
+    "parent": "Mayor",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Mayor"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:44:50.407677",
+  "name": "Assessor",
+  "role_profile": "Assessor",
+  "roles": [
+   {
+    "parent": "Assessor",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Assessor"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2025-09-09 16:45:41.092699",
+  "name": "BPLO Officer",
+  "role_profile": "BPLO Officer",
+  "roles": [
+   {
+    "parent": "BPLO Officer",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "BPLO Officer"
+   }
+  ]
+ }
+]

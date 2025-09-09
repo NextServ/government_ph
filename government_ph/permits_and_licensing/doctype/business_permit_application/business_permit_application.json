@@ -870,7 +870,7 @@
    "fieldname": "note",
    "fieldtype": "HTML",
    "label": "Note",
-   "options": "<div style=\"color:red; font-weight:bold; padding:4px 0;\">\n\u26a0 If all Initial Document Requirements are verified and approved, you may select the Ancillary Document Template to proceed to endorsing offices.\n</div>"
+   "options": "<div style=\"color:red; font-weight:500; font-size:16px; padding:4px 0;\">\n    Once your Initial Document Requirements are verified and approved, you may select the Ancillary Document Template to proceed with Endorsing Office verification.\n</div>\n"
   },
   {
    "depends_on": "eval:doc.workflow_state==\"Rejected\"",
@@ -981,7 +981,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-09 17:48:02.471907",
+ "modified": "2025-09-09 17:53:52.278031",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",

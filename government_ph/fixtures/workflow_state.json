@@ -1,0 +1,92 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 15:56:24.587376",
+  "name": "For Approval",
+  "style": "",
+  "workflow_state_name": "For Approval"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-09 11:05:51.669003",
+  "name": "Partial Payment",
+  "style": "",
+  "workflow_state_name": "Partial Payment"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-08 11:12:18.793757",
+  "name": "Awaiting Initial Document Submission",
+  "style": "Danger",
+  "workflow_state_name": "Awaiting Initial Document Submission"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 16:51:38.225409",
+  "name": "Licensed Issued",
+  "style": "Success",
+  "workflow_state_name": "Licensed Issued"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 16:51:50.160553",
+  "name": "For Issuance",
+  "style": "Inverse",
+  "workflow_state_name": "For Issuance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 16:50:50.002967",
+  "name": "For Payment",
+  "style": "Warning",
+  "workflow_state_name": "For Payment"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-03 14:13:54.454515",
+  "name": "For Assessment",
+  "style": "Warning",
+  "workflow_state_name": "For Assessment"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-03 14:14:31.712086",
+  "name": "For Endorsement to Ancillary Offices",
+  "style": "Info",
+  "workflow_state_name": "For Endorsement to Ancillary Offices"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 15:54:48.761175",
+  "name": "For Verification",
+  "style": "Primary",
+  "workflow_state_name": "For Verification"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-08-27 16:14:45.571771",
+  "name": "Saved as Draft",
+  "style": "",
+  "workflow_state_name": "Saved as Draft"
+ }
+]

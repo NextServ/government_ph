@@ -275,7 +275,7 @@ fixtures = [
 		"doctype": "Workflow State",
 		"filters": [
 			[
-				"state",
+				"name",
 				"in",
 				[
 					"Partial Payment",
