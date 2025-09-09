@@ -24,6 +24,7 @@ class AncillaryRequirementsTable(Document):
 		file: DF.Attach | None
 		file_attached_by: DF.Link | None
 		file_attachment_date: DF.Datetime | None
+		full_name: DF.Data | None
 		notesremarks: DF.SmallText | None
 		parent: DF.Data
 		parentfield: DF.Data

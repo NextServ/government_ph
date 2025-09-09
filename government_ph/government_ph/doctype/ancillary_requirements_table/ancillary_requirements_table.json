@@ -10,6 +10,7 @@
   "document_title",
   "assigned_departmentoffice",
   "assigned_role",
+  "full_name",
   "status",
   "notesremarks",
   "column_break_iobz",
@@ -19,7 +20,6 @@
   "valid_from",
   "valid_until",
   "create_compliance_inspection",
-  "create_inspection_button",
   "section_break_rcfr",
   "file_attached_by",
   "file_attachment_date",
@@ -170,7 +170,8 @@
    "allow_on_submit": 1,
    "fieldname": "assigned_role",
    "fieldtype": "Link",
-   "label": "Assigned To",
+   "in_standard_filter": 1,
+   "label": "Assigned Officer",
    "options": "User"
   },
   {
@@ -182,16 +183,18 @@
    "options": "Compliance Inspection"
   },
   {
-   "fieldname": "create_inspection_button",
-   "fieldtype": "Button",
-   "label": "Create Inspection Button"
+   "fetch_from": "assigned_role.full_name",
+   "fieldname": "full_name",
+   "fieldtype": "Data",
+   "label": "Full Name",
+   "read_only": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2025-09-09 18:44:34.511102",
+ "modified": "2025-09-09 22:00:55.855351",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "Ancillary Requirements Table",

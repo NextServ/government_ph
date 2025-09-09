@@ -1,20 +1,21 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "field:business_permit_application",
  "creation": "2025-09-05 02:19:45.047477",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
   "section_break_cjwl",
-  "amended_from",
   "departmentoffice",
+  "business_permit_application",
+  "amended_from",
   "scheduled_visit",
   "actual_visit",
   "column_break_ryqg",
-  "business_permit_application",
   "rating",
   "inspected_by",
-  "verified_by",
+  "inspector_full_name",
   "notescomments_section",
   "long_text_zpbp"
  ],
@@ -40,6 +41,7 @@
    "options": "Government Office"
   },
   {
+   "allow_on_submit": 1,
    "fieldname": "scheduled_visit",
    "fieldtype": "Date",
    "label": "Scheduled Visit"
@@ -56,19 +58,14 @@
   {
    "fieldname": "rating",
    "fieldtype": "Select",
+   "in_list_view": 1,
    "label": "Rating",
-   "options": "Compliant\nNon-Compliant"
+   "options": "Compliant\nNon-Compliant\nPartially Compliant\nNot Applicable (N/A)"
   },
   {
    "fieldname": "inspected_by",
    "fieldtype": "Link",
    "label": "Inspected By",
-   "options": "User"
-  },
-  {
-   "fieldname": "verified_by",
-   "fieldtype": "Link",
-   "label": "Verified By",
    "options": "User"
   },
   {
@@ -84,17 +81,26 @@
    "fieldname": "business_permit_application",
    "fieldtype": "Link",
    "label": "Business Permit Application",
-   "options": "Business Permit Application"
+   "options": "Business Permit Application",
+   "unique": 1
+  },
+  {
+   "fetch_from": "inspected_by.full_name",
+   "fieldname": "inspector_full_name",
+   "fieldtype": "Data",
+   "label": "Inspector Full Name",
+   "read_only": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-09 18:03:57.988948",
+ "modified": "2025-09-09 21:50:51.731832",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Compliance Inspection",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {

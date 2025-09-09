@@ -19,9 +19,9 @@ class ComplianceInspection(Document):
 		business_permit_application: DF.Link | None
 		departmentoffice: DF.Link | None
 		inspected_by: DF.Link | None
+		inspector_full_name: DF.Data | None
 		long_text_zpbp: DF.LongText | None
-		rating: DF.Literal["Compliant", "Non-Compliant"]
+		rating: DF.Literal["Compliant", "Non-Compliant", "Partially Compliant", "Not Applicable (N/A)"]
 		scheduled_visit: DF.Date | None
-		verified_by: DF.Link | None
 	# end: auto-generated types
 	pass
