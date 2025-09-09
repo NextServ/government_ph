@@ -761,7 +761,6 @@
   },
   {
    "allow_on_submit": 1,
-   "depends_on": "eval: (\r\n    doc.workflow_state == \"For Endorsement to Ancillary Offices\"\r\n    || doc.workflow_state == \"For Assessment\"\r\n    || doc.workflow_state == \"For Payment\"\r\n    || doc.workflow_state == \"For Issuance\"\r\n    || doc.workflow_state == \"Licensed Issued\"\r\n    || (doc.workflow_state == \"For Verification\" && frappe.user.has_role(\"LGU - BPLO Officer\"))\r\n)\r\n",
    "fieldname": "ancilliary_documents_template",
    "fieldtype": "Link",
    "label": "Ancillary Documents Template",
@@ -815,7 +814,6 @@
   {
    "allow_bulk_edit": 1,
    "allow_on_submit": 1,
-   "depends_on": "eval: (\r\n    doc.workflow_state == \"For Endorsement to Ancillary Offices\"\r\n    || doc.workflow_state == \"For Assessment\"\r\n    || doc.workflow_state == \"For Payment\"\r\n    || doc.workflow_state == \"For Issuance\"\r\n    || doc.workflow_state == \"Licensed Issued\"\r\n    || (doc.workflow_state == \"For Verification\" && frappe.user.has_role(\"LGU - BPLO Officer\"))\r\n)\r\n",
    "fieldname": "ancillary_verifications",
    "fieldtype": "Table",
    "in_filter": 1,
@@ -952,7 +950,7 @@
    "fieldname": "taxpayers_information_note",
    "fieldtype": "HTML",
    "label": "TaxPayer's Information Note",
-   "options": "<div style=\"color:blue; font-weight:bold; padding:4px 0;\"> \nPlease continue to the Business Information in the next tab\n</div>"
+   "options": "<div style=\"color:black; font-weight:bold; font-size:18px; text-align:right; padding:6px 0;\">\n    Next step: Fill in your details under the Business Information tab.\n</div>\n"
   },
   {
    "fieldname": "section_break_uwrk",
@@ -966,7 +964,7 @@
    "fieldname": "business_information_note_cop",
    "fieldtype": "HTML",
    "label": "Business Information Note",
-   "options": "<div style=\"color:blue; font-weight:bold; padding:4px 0;\"> \nPlease continue to the Business Activity in the next tab\n</div>"
+   "options": "<div style=\"color:black; font-weight:bold; font-size:18px; text-align:right; padding:6px 0;\">\n    Then, proceed to the Business Activity tab to continue your application.\n</div>\n"
   },
   {
    "fieldname": "section_break_icpz",
@@ -976,14 +974,14 @@
    "fieldname": "business_activity_note",
    "fieldtype": "HTML",
    "label": "Business Activity Note",
-   "options": "<div style=\"color:blue; font-weight:bold; padding:4px 0;\"> \nPlease continue to the Business Requirement in the next tab\n</div>"
+   "options": "<div style=\"color:black; font-weight:bold; font-size:18px; text-align:right; padding:6px 0;\">\n    Next, continue to the Business Requirement tab to provide your initial requirements.\n</div>\n"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-09 12:48:19.771125",
+ "modified": "2025-09-09 17:48:02.471907",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",
