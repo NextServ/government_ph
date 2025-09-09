@@ -88,6 +88,36 @@ frappe.ui.form.on("Business Permit Application", {
 		// Trigger helper when type_of_application changes
 		toggle_line_of_business_fields(frm);
 	},
+	ancilliary_documents_template: function (frm) {
+		if (frm.doc.ancilliary_documents_template) {
+			frappe.db
+				.get_doc("Ancillary Documents Template", frm.doc.ancilliary_documents_template)
+				.then((doc) => {
+					// Clear existing rows
+					frm.clear_table("ancillary_verifications");
+
+					// Loop through template's child table (link_dazm)
+					(doc.link_dazm || []).forEach((d) => {
+						let row = frm.add_child("ancillary_verifications");
+						row.document_title = d.document_title;
+						row.assigned_departmentoffice = d.assigned_departmentoffice;
+						row.assigned_role = d.assigned_role;
+						row.status = d.status;
+						row.notesremarks = d.notesremarks;
+						row.clearance_no = d.clearance_no;
+						row.valid_from = d.valid_from;
+						row.valid_until = d.valid_until;
+						row.create_compliance_inspection = d.create_compliance_inspection;
+					});
+
+					frm.refresh_field("ancillary_verifications");
+				});
+		} else {
+			// If template is cleared, wipe the table
+			frm.clear_table("ancillary_verifications");
+			frm.refresh_field("ancillary_verifications");
+		}
+	},
 });
 
 // ---------------- Helper Functions ----------------
