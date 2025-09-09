@@ -19,6 +19,7 @@
   "valid_from",
   "valid_until",
   "create_compliance_inspection",
+  "create_inspection_button",
   "section_break_rcfr",
   "file_attached_by",
   "file_attachment_date",
@@ -176,15 +177,21 @@
    "allow_on_submit": 1,
    "fieldname": "create_compliance_inspection",
    "fieldtype": "Link",
+   "in_list_view": 1,
    "label": "Create Compliance Inspection",
    "options": "Compliance Inspection"
+  },
+  {
+   "fieldname": "create_inspection_button",
+   "fieldtype": "Button",
+   "label": "Create Inspection Button"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2025-09-08 14:58:03.249605",
+ "modified": "2025-09-09 18:44:34.511102",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "Ancillary Requirements Table",
