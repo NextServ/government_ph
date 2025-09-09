@@ -118,6 +118,36 @@ frappe.ui.form.on("Business Permit Application", {
 			frm.refresh_field("ancillary_verifications");
 		}
 	},
+	initial_requirement_documents_template: function (frm) {
+		if (frm.doc.initial_requirement_documents_template) {
+			frappe.db
+				.get_doc(
+					"Initial Requirement Documents Template",
+					frm.doc.initial_requirement_documents_template
+				)
+				.then((doc) => {
+					// Clear existing rows
+					frm.clear_table("initial_document_requirement");
+
+					// Loop through template's child table (initial_requirement_checklist)
+					(doc.initial_requirement_checklist || []).forEach((d) => {
+						let row = frm.add_child("initial_document_requirement");
+						row.document_name = d.document_name;
+						row.required = d.required;
+						row.status = d.status;
+						row.notesremarks = d.notesremarks;
+						row.file_attached_by = d.file_attached_by;
+						row.file_resubmitted_by = d.file_resubmitted_by;
+					});
+
+					frm.refresh_field("initial_document_requirement");
+				});
+		} else {
+			// If template is cleared, wipe the table
+			frm.clear_table("initial_document_requirement");
+			frm.refresh_field("initial_document_requirement");
+		}
+	},
 });
 
 // ---------------- Helper Functions ----------------
