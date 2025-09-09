@@ -2,7 +2,7 @@
 
 An ERPNext Localization for Philippine Government/LGU
 
-## Getting Started (Development/Demo setup)
+## Getting Started (Development/Demo Setup)
 
 ### Docker
 
@@ -14,23 +14,29 @@ After installing or setting up Git, run the following command to prevent issues 
 
 ```bash
 git config --global core.autocrlf false
-
 ```
 
 After that, run the following commands:
 
 ```bash
 git clone https://github.com/NextServ/government_ph
+```
+```bash
 cd government_ph/docker
+```
+```bash
 docker-compose up
 ```
 
-Wait for some time until the setup script creates a site. After that you can access `http://localhost:8000` in your browser and the login screen should show up.
+Wait for some time (usually around 10-20 mins. depending on your computer machine) until the setup script creates a site. After that you can access `http://localhost:8000` in your browser and the login screen should show up.
 
 Use the following credentials to log in:
 
 - Username: `Administrator`
 - Password: `admin`
+
+
+
 
 ### Contributing
 
