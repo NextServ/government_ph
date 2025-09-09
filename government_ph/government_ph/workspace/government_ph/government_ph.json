@@ -97,7 +97,7 @@
    "type": "Link"
   }
  ],
- "modified": "2025-09-09 12:19:26.121705",
+ "modified": "2025-09-09 13:59:08.117641",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "Government PH",
@@ -119,7 +119,11 @@
  "parent_page": "",
  "public": 1,
  "quick_lists": [],
- "roles": [],
+ "roles": [
+  {
+   "role": "BPLO Officer"
+  }
+ ],
  "sequence_id": 23.0,
  "shortcuts": [],
  "title": "Government PH"

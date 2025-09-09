@@ -28,7 +28,7 @@ cd government_ph/docker
 docker-compose up
 ```
 
-Wait for some time (usually around 10-20 mins. depending on your computer machine) until the setup script creates a site. After that you can access `http://localhost:8000` in your browser and the login screen should show up.
+Wait for some time (usually around 10-20 mins. depending on your computer machine) until the setup script creates a site or you're seeing the Debugger PIN text. After that you can access `http://localhost:8000` in your browser and the login screen should show up.
 
 Use the following credentials to log in:
 
