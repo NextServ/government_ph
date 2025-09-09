@@ -271,4 +271,81 @@ fixtures = [
 	{"doctype": "PH City"},
 	{"doctype": "PH Barangay"},
 	{"doctype": "PH Postal Code"},
+	{
+		"doctype": "Workflow State",
+		"filters": [
+			[
+				"state",
+				"in",
+				[
+					"Partial Payment",
+					"Awaiting Initial Document Submission",
+					"For Endorsement to Ancillary Offices",
+					"Saved as Draft",
+					"Licensed Issued",
+					"For Issuance",
+					"For Payment",
+					"For Approval",
+					"For Assessment",
+					"For Verification",
+				],
+			]
+		],
+	},
+	{
+		"doctype": "Workflow",
+		"filters": [
+			[
+				"name",
+				"in",
+				[
+					"Business Permit Application Workflow",
+				],
+			]
+		],
+	},
+	{
+		"doctype": "Workflow Action Master",
+		"filters": [
+			[
+				"name",
+				"in",
+				[
+					"Partial Payment",
+					"Complete Document",
+					"Approved by City Planning Office",
+					"Approved by BFP",
+					"Issue",
+					"Paid",
+					"Approve Assessment",
+					"Approved and Completed Clearances",
+					"Verified and Approved",
+					"Submit Application",
+				],
+			]
+		],
+	},
+	{"doctype": "Ancillary Documents Template"},
+	{
+		"doctype": "Role Profile",
+		"filters": [
+			[
+				"name",
+				"in",
+				[
+					"BPLO Officer",
+					"Assessor",
+					"Mayor",
+					"Health/Sanitary Office",
+					"Treasurer's Office",
+					"City Engineer",
+					"LGU - DENR Office",
+					"LGU - Barangay",
+					"BPLO Head",
+					"LGU - BFP Office",
+					"LGU - Zoning Office",
+				],
+			]
+		],
+	},
 ]

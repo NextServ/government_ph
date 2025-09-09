@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "field:template_name",
  "creation": "2025-09-06 00:37:05.172377",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -19,7 +20,8 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Template Name",
-   "reqd": 1
+   "reqd": 1,
+   "unique": 1
   },
   {
    "fieldname": "column_break_nwhq",
@@ -58,10 +60,11 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-06 00:42:22.804510",
+ "modified": "2025-09-09 17:06:00.595418",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Tax Assessment Template",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {
