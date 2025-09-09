@@ -193,3 +193,30 @@ function toggle_line_of_business_fields(frm) {
 	// Refresh grid to apply
 	frm.fields_dict.line_of_business.grid.refresh();
 }
+
+frappe.ui.form.on("Business Tax Payment", {
+	amount_due: function (frm, cdt, cdn) {
+		calculate_total_business_tax(cdt, cdn, frm);
+		calculate_total_due(frm);
+	},
+	penaltysurcharge: function (frm, cdt, cdn) {
+		calculate_total_business_tax(cdt, cdn, frm);
+		calculate_total_due(frm);
+	},
+});
+
+function calculate_total_business_tax(cdt, cdn, frm) {
+	let row = locals[cdt][cdn];
+	row.total = (row.amount_due || 0) + (row.penaltysurcharge || 0);
+	frm.refresh_field("business_tax_payment");
+}
+
+function calculate_total_due(frm) {
+	let total_due = 0;
+
+	(frm.doc.business_tax_payment || []).forEach((row) => {
+		total_due += row.total || 0;
+	});
+
+	frm.set_value("total_due", total_due);
+}
