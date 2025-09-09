@@ -1,5 +1,5 @@
 {
- "based_on": "custom_date_of_application",
+ "based_on": "date_of_application",
  "chart_name": "Business Permit Application",
  "chart_type": "Count",
  "color": "#449CF0",
