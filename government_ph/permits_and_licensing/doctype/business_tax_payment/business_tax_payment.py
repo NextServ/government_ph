@@ -5,7 +5,7 @@
 from frappe.model.document import Document
 
 
-class BusinessTaxTable(Document):
+class BusinessTaxPayment(Document):
 	# begin: auto-generated types
 	# This code is auto-generated. Do not modify anything in this block.
 
@@ -14,13 +14,13 @@ class BusinessTaxTable(Document):
 	if TYPE_CHECKING:
 		from frappe.types import DF
 
-		amount_due: DF.Currency
-		feetax: DF.Link | None
+		amount: DF.Currency
+		date_of_payment: DF.Date | None
 		parent: DF.Data
 		parentfield: DF.Data
 		parenttype: DF.Data
-		penaltysurcharge: DF.Currency
-		period_covered: DF.Data | None
-		total: DF.Currency
+		payment_mode: DF.Link | None
+		reference_numbercode: DF.Data | None
+		type: DF.Literal["Cash", "Check", "Bank Transfer", "Debit Card", "Credit Card", "Prepaid Card", "E-Wallet", "Others"]
 	# end: auto-generated types
 	pass

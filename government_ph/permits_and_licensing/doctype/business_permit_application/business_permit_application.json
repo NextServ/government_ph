@@ -53,6 +53,8 @@
   "column_break_qypt",
   "contact_number",
   "contact_person_email_address",
+  "section_break_uwrk",
+  "taxpayers_information_note",
   "tab_break_rnng",
   "business_details_section",
   "business_name",
@@ -112,11 +114,15 @@
   "lessor_building_name",
   "lessor_street",
   "lessor_subdivision",
+  "section_break_mxfd",
+  "business_information_note_cop",
   "business_activityrequirements_tab",
   "line_of_business_section",
   "line_of_business",
   "section_break_txbo",
   "measure_and_pax_details",
+  "section_break_icpz",
+  "business_activity_note",
   "business_requirements_tab",
   "initial_verifications_section",
   "initial_requirement_documents_template",
@@ -129,11 +135,20 @@
   "assessment_of_applicable_fees_section",
   "business_tax_assessment_template",
   "business_tax",
+  "period_covered",
   "section_break_yjsu",
   "approved_by",
   "assessed_by",
   "column_break_ivcy",
-  "total_due"
+  "total_due",
+  "payment_tab",
+  "business_tax_payment",
+  "section_break_ntro",
+  "total_amount_due",
+  "amount_received_by",
+  "column_break_irej",
+  "total_paid_amount",
+  "amount_received_by_full_name"
  ],
  "fields": [
   {
@@ -465,7 +480,7 @@
   {
    "fieldname": "ctc_no",
    "fieldtype": "Data",
-   "label": "CTC No"
+   "label": "Community Tax No (CTC)"
   },
   {
    "fieldname": "business_area",
@@ -830,6 +845,7 @@
    "default": "0",
    "fieldname": "same_as_home_address",
    "fieldtype": "Check",
+   "hidden": 1,
    "label": "Same as Home Address"
   },
   {
@@ -880,13 +896,94 @@
    "fieldtype": "Table",
    "label": "Measure and Pax Details",
    "options": "Measure and Pax Details"
+  },
+  {
+   "depends_on": "eval: doc.workflow_state==\"For Payment\" || doc.workflow_state==\"For Issuance\"|| doc.workflow_state==\"Licensed Issued\"",
+   "fieldname": "payment_tab",
+   "fieldtype": "Tab Break",
+   "label": "Payments"
+  },
+  {
+   "fieldname": "business_tax_payment",
+   "fieldtype": "Table",
+   "label": "Business Tax Payment",
+   "options": "Business Tax Payment"
+  },
+  {
+   "fieldname": "section_break_ntro",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "total_amount_due",
+   "fieldtype": "Currency",
+   "label": "Total Amount Due"
+  },
+  {
+   "fieldname": "amount_received_by",
+   "fieldtype": "Link",
+   "in_standard_filter": 1,
+   "label": "Amount Received By",
+   "options": "User"
+  },
+  {
+   "fieldname": "column_break_irej",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "total_paid_amount",
+   "fieldtype": "Currency",
+   "label": "Total Paid Amount"
+  },
+  {
+   "allow_on_submit": 1,
+   "fieldname": "period_covered",
+   "fieldtype": "Data",
+   "label": "Period Covered",
+   "mandatory_depends_on": "eval: doc.workflow_state==\"For Assessment\" || doc.workflow_state==\"For Payment\" || doc.workflow_state==\"For Issuance\"|| doc.workflow_state==\"Licensed Issued\""
+  },
+  {
+   "fetch_from": "amount_received_by.full_name",
+   "fieldname": "amount_received_by_full_name",
+   "fieldtype": "Data",
+   "label": "Full Name",
+   "read_only": 1
+  },
+  {
+   "fieldname": "taxpayers_information_note",
+   "fieldtype": "HTML",
+   "label": "TaxPayer's Information Note",
+   "options": "<div style=\"color:blue; font-weight:bold; padding:4px 0;\"> \nPlease continue to the Business Information in the next tab\n</div>"
+  },
+  {
+   "fieldname": "section_break_uwrk",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "section_break_mxfd",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "business_information_note_cop",
+   "fieldtype": "HTML",
+   "label": "Business Information Note",
+   "options": "<div style=\"color:blue; font-weight:bold; padding:4px 0;\"> \nPlease continue to the Business Activity in the next tab\n</div>"
+  },
+  {
+   "fieldname": "section_break_icpz",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "business_activity_note",
+   "fieldtype": "HTML",
+   "label": "Business Activity Note",
+   "options": "<div style=\"color:blue; font-weight:bold; padding:4px 0;\"> \nPlease continue to the Business Requirement in the next tab\n</div>"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-08 15:02:44.989995",
+ "modified": "2025-09-09 12:48:19.771125",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",

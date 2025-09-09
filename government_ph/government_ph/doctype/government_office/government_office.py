@@ -5,7 +5,7 @@
 from frappe.model.document import Document
 
 
-class BusinessTaxTable(Document):
+class GovernmentOffice(Document):
 	# begin: auto-generated types
 	# This code is auto-generated. Do not modify anything in this block.
 
@@ -14,13 +14,8 @@ class BusinessTaxTable(Document):
 	if TYPE_CHECKING:
 		from frappe.types import DF
 
-		amount_due: DF.Currency
-		feetax: DF.Link | None
-		parent: DF.Data
-		parentfield: DF.Data
-		parenttype: DF.Data
-		penaltysurcharge: DF.Currency
-		period_covered: DF.Data | None
-		total: DF.Currency
+		lgu: DF.Link | None
+		office: DF.Data | None
+		officedepartment_name: DF.Link | None
 	# end: auto-generated types
 	pass

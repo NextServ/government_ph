@@ -1,29 +1,44 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:measure_or_pax",
- "creation": "2025-09-08 14:47:20.642860",
+ "autoname": "field:office",
+ "creation": "2025-09-09 10:51:01.523305",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "measure_or_pax"
+  "lgu",
+  "officedepartment_name",
+  "office"
  ],
  "fields": [
   {
-   "fieldname": "measure_or_pax",
+   "fieldname": "lgu",
+   "fieldtype": "Link",
+   "label": "LGU",
+   "options": "LGU"
+  },
+  {
+   "fieldname": "officedepartment_name",
+   "fieldtype": "Link",
+   "label": "Department Name",
+   "options": "LGU"
+  },
+  {
+   "fieldname": "office",
    "fieldtype": "Data",
-   "label": "Measure or Pax",
+   "label": "Office",
    "unique": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-09 12:38:41.387846",
+ "modified": "2025-09-09 11:04:07.389981",
  "modified_by": "Administrator",
- "module": "Permits and Licensing",
- "name": "Measure or Pax",
+ "module": "Government PH",
+ "name": "Government Office",
  "naming_rule": "By fieldname",
+ "nsm_parent_field": "parent_government_office",
  "owner": "Administrator",
  "permissions": [
   {
@@ -35,30 +50,6 @@
    "read": 1,
    "report": 1,
    "role": "System Manager",
-   "share": 1,
-   "write": 1
-  },
-  {
-   "create": 1,
-   "delete": 1,
-   "email": 1,
-   "export": 1,
-   "print": 1,
-   "read": 1,
-   "report": 1,
-   "role": "BPLO Officer",
-   "share": 1,
-   "write": 1
-  },
-  {
-   "create": 1,
-   "delete": 1,
-   "email": 1,
-   "export": 1,
-   "print": 1,
-   "read": 1,
-   "report": 1,
-   "role": "BPLO Head",
    "share": 1,
    "write": 1
   }
