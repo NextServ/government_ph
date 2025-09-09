@@ -1,5 +1,13 @@
 [
  {
+  "citymunicipality": "Bago City",
+  "docstatus": 0,
+  "doctype": "PH City",
+  "modified": "2025-09-09 21:01:23.884142",
+  "name": "Bago City",
+  "province": "Negros Occidental"
+ },
+ {
   "citymunicipality": "Adams",
   "docstatus": 0,
   "doctype": "PH City",
