@@ -51,8 +51,10 @@
    "label": "Applicable Fees"
   },
   {
+   "allow_bulk_edit": 1,
    "fieldname": "business_tax",
    "fieldtype": "Table",
+   "in_standard_filter": 1,
    "label": "Business Tax",
    "options": "Business Tax Table"
   }
@@ -60,7 +62,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-09 17:06:00.595418",
+ "modified": "2025-09-09 23:55:43.395755",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Tax Assessment Template",

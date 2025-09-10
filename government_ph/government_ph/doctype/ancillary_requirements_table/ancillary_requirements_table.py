@@ -17,14 +17,12 @@ class AncillaryRequirementsTable(Document):
 		approved_by: DF.Link | None
 		approved_date: DF.Datetime | None
 		assigned_departmentoffice: DF.Data | None
-		assigned_role: DF.Link | None
 		clearance_no: DF.Data | None
 		create_compliance_inspection: DF.Link | None
 		document_title: DF.Link | None
 		file: DF.Attach | None
 		file_attached_by: DF.Link | None
 		file_attachment_date: DF.Datetime | None
-		full_name: DF.Data | None
 		notesremarks: DF.SmallText | None
 		parent: DF.Data
 		parentfield: DF.Data
@@ -34,7 +32,7 @@ class AncillaryRequirementsTable(Document):
 		resubmitted_by: DF.Link | None
 		resubmitted_date: DF.Datetime | None
 		resubmitted_file: DF.Attach | None
-		status: DF.Literal["Awaiting Submission", "For Inspection", "Pending Review", "Approved", "Rejected", "For Resubmission"]
+		status: DF.Literal["", "For Inspection", "Awaiting Submission", "Pending Review", "Approved", "Rejected", "For Resubmission"]
 		valid_from: DF.Date | None
 		valid_until: DF.Date | None
 	# end: auto-generated types

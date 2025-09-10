@@ -16,12 +16,15 @@ class ComplianceInspection(Document):
 
 		actual_visit: DF.Date | None
 		amended_from: DF.Link | None
+		business_name: DF.Data | None
+		business_owner: DF.Data | None
 		business_permit_application: DF.Link | None
 		departmentoffice: DF.Link | None
 		inspected_by: DF.Link | None
 		inspector_full_name: DF.Data | None
 		long_text_zpbp: DF.LongText | None
-		rating: DF.Literal["Compliant", "Non-Compliant", "Partially Compliant", "Not Applicable (N/A)"]
+		naming_series: DF.Literal[".YYYY.-CI-.#####"]
+		rating: DF.Literal["", "Compliant", "Non-Compliant", "Partially Compliant", "Not Applicable (N/A)"]
 		scheduled_visit: DF.Date | None
 	# end: auto-generated types
 	pass

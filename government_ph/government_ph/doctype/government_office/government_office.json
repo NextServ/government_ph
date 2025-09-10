@@ -6,9 +6,9 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
+  "office",
   "lgu",
-  "officedepartment_name",
-  "office"
+  "officedepartment_name"
  ],
  "fields": [
   {
@@ -21,19 +21,21 @@
    "fieldname": "officedepartment_name",
    "fieldtype": "Link",
    "label": "Department Name",
-   "options": "LGU"
+   "options": "LGU Department"
   },
   {
    "fieldname": "office",
    "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "Office",
+   "reqd": 1,
    "unique": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-09 11:04:07.389981",
+ "modified": "2025-09-09 22:19:16.144343",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "Government Office",

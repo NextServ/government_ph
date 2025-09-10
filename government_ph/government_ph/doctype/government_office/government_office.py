@@ -15,7 +15,7 @@ class GovernmentOffice(Document):
 		from frappe.types import DF
 
 		lgu: DF.Link | None
-		office: DF.Data | None
+		office: DF.Data
 		officedepartment_name: DF.Link | None
 	# end: auto-generated types
 	pass

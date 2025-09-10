@@ -1,14 +1,17 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:business_permit_application",
+ "autoname": "naming_series:",
  "creation": "2025-09-05 02:19:45.047477",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
   "section_break_cjwl",
+  "naming_series",
   "departmentoffice",
   "business_permit_application",
+  "business_name",
+  "business_owner",
   "amended_from",
   "scheduled_visit",
   "actual_visit",
@@ -60,12 +63,12 @@
    "fieldtype": "Select",
    "in_list_view": 1,
    "label": "Rating",
-   "options": "Compliant\nNon-Compliant\nPartially Compliant\nNot Applicable (N/A)"
+   "options": "\nCompliant\nNon-Compliant\nPartially Compliant\nNot Applicable (N/A)"
   },
   {
    "fieldname": "inspected_by",
    "fieldtype": "Link",
-   "label": "Inspected By",
+   "label": "Assigned Officer",
    "options": "User"
   },
   {
@@ -81,26 +84,43 @@
    "fieldname": "business_permit_application",
    "fieldtype": "Link",
    "label": "Business Permit Application",
-   "options": "Business Permit Application",
-   "unique": 1
+   "options": "Business Permit Application"
   },
   {
    "fetch_from": "inspected_by.full_name",
    "fieldname": "inspector_full_name",
    "fieldtype": "Data",
-   "label": "Inspector Full Name",
+   "label": "Full Name",
    "read_only": 1
+  },
+  {
+   "fieldname": "naming_series",
+   "fieldtype": "Select",
+   "label": "Naming Series",
+   "options": ".YYYY.-CI-.#####"
+  },
+  {
+   "fetch_from": "business_permit_application.business_name",
+   "fieldname": "business_name",
+   "fieldtype": "Data",
+   "label": "Business Name"
+  },
+  {
+   "fetch_from": "business_permit_application.registrant_full_name",
+   "fieldname": "business_owner",
+   "fieldtype": "Data",
+   "label": "Business Owner "
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-09 21:50:51.731832",
+ "modified": "2025-09-09 23:11:27.501832",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Compliance Inspection",
- "naming_rule": "By fieldname",
+ "naming_rule": "By \"Naming Series\" field",
  "owner": "Administrator",
  "permissions": [
   {

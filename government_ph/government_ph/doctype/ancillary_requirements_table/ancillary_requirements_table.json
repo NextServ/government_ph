@@ -9,8 +9,6 @@
   "section_break_ytbx",
   "document_title",
   "assigned_departmentoffice",
-  "assigned_role",
-  "full_name",
   "status",
   "notesremarks",
   "column_break_iobz",
@@ -20,6 +18,7 @@
   "valid_from",
   "valid_until",
   "create_compliance_inspection",
+  "note",
   "section_break_rcfr",
   "file_attached_by",
   "file_attachment_date",
@@ -55,7 +54,6 @@
    "allow_on_submit": 1,
    "fieldname": "notesremarks",
    "fieldtype": "Small Text",
-   "in_list_view": 1,
    "label": "Notes/Remarks"
   },
   {
@@ -65,7 +63,7 @@
    "in_list_view": 1,
    "in_standard_filter": 1,
    "label": "Status",
-   "options": "Awaiting Submission\nFor Inspection\nPending Review\nApproved\nRejected\nFor Resubmission"
+   "options": "\nFor Inspection\nAwaiting Submission\nPending Review\nApproved\nRejected\nFor Resubmission"
   },
   {
    "allow_on_submit": 1,
@@ -168,14 +166,6 @@
   },
   {
    "allow_on_submit": 1,
-   "fieldname": "assigned_role",
-   "fieldtype": "Link",
-   "in_standard_filter": 1,
-   "label": "Assigned Officer",
-   "options": "User"
-  },
-  {
-   "allow_on_submit": 1,
    "fieldname": "create_compliance_inspection",
    "fieldtype": "Link",
    "in_list_view": 1,
@@ -183,18 +173,17 @@
    "options": "Compliance Inspection"
   },
   {
-   "fetch_from": "assigned_role.full_name",
-   "fieldname": "full_name",
-   "fieldtype": "Data",
-   "label": "Full Name",
-   "read_only": 1
+   "fieldname": "note",
+   "fieldtype": "HTML",
+   "label": "Note",
+   "options": "<div style=\"color:#1E90FF; font-weight:500; font-size:13px; padding:2px 0;\">\n    Please get the <strong>Business Application ID</strong> when creating a Compliance Inspection for tagging purposes.\n</div>\n"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2025-09-09 22:00:55.855351",
+ "modified": "2025-09-09 23:22:57.091255",
  "modified_by": "Administrator",
  "module": "Government PH",
  "name": "Ancillary Requirements Table",

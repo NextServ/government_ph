@@ -1,0 +1,77 @@
+{
+ "charts": [
+  {
+   "chart_name": "Business Permit Application",
+   "label": "Business Permit Application"
+  }
+ ],
+ "content": "[{\"id\":\"HjeJHmfKuq\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Permits and Licensing</span>\",\"col\":12}},{\"id\":\"5D3guvdaIQ\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Business Permit Application\",\"col\":12}},{\"id\":\"whqNF6Djim\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Permits and Licensing Dashboard\",\"col\":9}},{\"id\":\"18gsUUurJ6\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"BFP Pending Approval\",\"col\":4}},{\"id\":\"K_CLJ5xHfE\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"v3XpQwr5uR\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}}]",
+ "creation": "2025-09-09 22:46:25.209649",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "permission",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Bureau of Fire Protection",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Masters",
+   "link_count": 2,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Business Permit Application",
+   "link_count": 0,
+   "link_to": "Business Permit Application",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Compliance Inspection",
+   "link_count": 0,
+   "link_to": "Compliance Inspection",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-09-09 22:51:44.487462",
+ "modified_by": "Administrator",
+ "module": "Permits and Licensing",
+ "name": "Bureau of Fire Protection",
+ "number_cards": [
+  {
+   "label": "BFP Pending Approval",
+   "number_card_name": "BFP Pending Approval"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "Government PH",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 24.1,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Permits and Licensing Dashboard",
+   "link_to": "Permits and Licensing",
+   "type": "Dashboard"
+  }
+ ],
+ "title": "Bureau of Fire Protection"
+}
