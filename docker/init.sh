@@ -10,7 +10,7 @@ fi
 
 export PATH="${NVM_DIR}/versions/node/v${NODE_VERSION_DEVELOP}/bin/:${PATH}"
 
-bench init --skip-redis-config-generation frappe-bench
+bench init --skip-redis-config-generation frappe-bench --frappe-branch version-15
 
 cd frappe-bench
 
