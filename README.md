@@ -21,9 +21,11 @@ After that, run the following commands:
 ```bash
 git clone https://github.com/NextServ/government_ph
 ```
+
 ```bash
 cd government_ph/docker
 ```
+
 ```bash
 docker-compose up
 ```
@@ -35,8 +37,23 @@ Use the following credentials to log in:
 - Username: `Administrator`
 - Password: `admin`
 
+## Updating the App
 
+If you already have the app running and want to pull the latest changes, follow these steps.
 
+In the same folder where your `docker-compose.yml` is located, open a terminal and run:
+
+```bash
+docker-compose exec frappe bash
+```
+
+```bash
+cd frappe-bench
+```
+
+```bash
+bench update
+```
 
 ### Contributing
 
