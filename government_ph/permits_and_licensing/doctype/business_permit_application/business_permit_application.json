@@ -848,7 +848,6 @@
    "default": "0",
    "fieldname": "same_as_home_address",
    "fieldtype": "Check",
-   "hidden": 1,
    "label": "Same as Home Address"
   },
   {
@@ -999,7 +998,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-09-10 11:13:56.528614",
+ "modified": "2025-10-10 09:53:52.818228",
  "modified_by": "Administrator",
  "module": "Permits and Licensing",
  "name": "Business Permit Application",

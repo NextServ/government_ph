@@ -17,33 +17,55 @@ frappe.ui.form.on("Business Permit Application", {
 
 	// Trigger clear functions dynamically
 	region: function (frm) {
-		clear_location_fields(frm, "");
+		setup_location_queries(frm, "", ["province", "city", "barangay"]);
 	},
 	province: function (frm) {
-		clear_location_fields(frm, "", ["city", "barangay"]);
+		setup_location_queries(frm, "", ["city", "barangay"]);
 	},
 	city: function (frm) {
-		clear_location_fields(frm, "", ["barangay"]);
+		setup_location_queries(frm, "", ["barangay"]);
 	},
 
+	// Business Information
+	same_as_home_address: function(frm) {
+        // Check if the same_as_home_address checkbox is enabled
+        if (frm.doc.same_as_home_address) {
+            // Copy home address fields to business address fields
+            frm.set_value('business_region', frm.doc.region);
+            frm.set_value('business_province', frm.doc.province);
+            frm.set_value('business_city', frm.doc.city);
+            frm.set_value('business_barangay', frm.doc.barangay);
+            frm.set_value('business_postal_code', frm.doc.postal_code);
+
+            frm.set_value('business_house_no', frm.doc.house_number);
+            frm.set_value('business_unit_no', frm.doc.unit_no);
+            frm.set_value('business_building_name', frm.doc.building_name);
+            frm.set_value('business_street', frm.doc.street);
+            frm.set_value('business_subdivision', frm.doc.subdivision);
+        }
+    },
+
 	business_region: function (frm) {
-		clear_location_fields(frm, "business_");
+		if (frm.doc.same_as_home_address) return
+		setup_location_queries(frm, "business_", ["province", "city", "barangay"]);
 	},
 	business_province: function (frm) {
-		clear_location_fields(frm, "business_", ["city", "barangay"]);
+		if (frm.doc.same_as_home_address) return
+		setup_location_queries(frm, "business_", ["city", "barangay"]);
 	},
 	business_city: function (frm) {
-		clear_location_fields(frm, "business_", ["barangay"]);
+		if (frm.doc.same_as_home_address) return
+		setup_location_queries(frm, "business_", ["barangay"]);
 	},
 
 	lessor_region: function (frm) {
-		clear_location_fields(frm, "lessor_");
+		setup_location_queries(frm, "lessor_", ["province", "city", "barangay"]);
 	},
 	lessor_province: function (frm) {
-		clear_location_fields(frm, "lessor_", ["city", "barangay"]);
+		setup_location_queries(frm, "lessor_", ["city", "barangay"]);
 	},
 	lessor_city: function (frm) {
-		clear_location_fields(frm, "lessor_", ["barangay"]);
+		setup_location_queries(frm, "lessor_", ["barangay"]);
 	},
 
 	before_workflow_action: function (frm) {
@@ -153,7 +175,7 @@ frappe.ui.form.on("Business Permit Application", {
 // ---------------- Helper Functions ----------------
 
 // Setup query filters for region → province → city → barangay
-function setup_location_queries(frm, prefix) {
+function setup_location_queries(frm, prefix, to_clear) {
 	frm.set_query(prefix + "province", function () {
 		return {
 			filters: { region: frm.doc[prefix + "region"] },
@@ -169,6 +191,12 @@ function setup_location_queries(frm, prefix) {
 			filters: { city: frm.doc[prefix + "city"] },
 		};
 	});
+
+	if(to_clear){
+		to_clear.forEach(field => {
+			frm.set_value(prefix + field, '')
+		})
+	}
 }
 
 function toggle_line_of_business_fields(frm) {
